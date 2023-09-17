@@ -1,0 +1,296 @@
+[
+  {
+    "id": "chatcmpl-7zvimswpm7W27AU47i1Rgptqxx7h2",
+    "object": "chat.completion",
+    "created": 1694994244,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"ELK ELKEM\",\n  \"name\": \"Elkem ASA\",\n  \"id\": \"ELK\",\n  \"description\": \"Elkem ASA er et norsk industriselskap som produserer silisium, silikon og karbonbaserte produkter. Selskapet er en av verdens ledende produsenter av silisiumbaserte avanserte materialer.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Industri\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 116,
+      "total_tokens": 346
+    }
+  },
+  {
+    "id": "chatcmpl-7zviqqvE7MO1We0JH2c9YqhPuY7S7",
+    "object": "chat.completion",
+    "created": 1694994248,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"ELKEM ASA\",\n  \"name\": \"Elkem ASA\",\n  \"id\": \"ELK\",\n  \"description\": \"Elkem ASA er et globalt selskap som produserer silisium, silikon og karbonbaserte materialer. Selskapet leverer produkter til ulike industrier, inkludert energi, transport, bygg og konstruksjon, elektronikk og helse. Elkem har virksomhet i over 40 land og har hovedkontor i Oslo, Norge.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Materialer\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 229,
+      "completion_tokens": 149,
+      "total_tokens": 378
+    }
+  },
+  {
+    "id": "chatcmpl-7zviw9H1GMOEBdBlsv0u9isHcY4RN",
+    "object": "chat.completion",
+    "created": 1694994254,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"ELO ELOPAK\",\n  \"name\": \"Elopak AS\",\n  \"id\": \"ELO\",\n  \"description\": \"Elopak AS er et norsk selskap som produserer og leverer emballasjeløsninger til mat- og drikkeindustrien. Selskapet er spesialisert på produksjon av kartongbaserte emballasjeprodukter, inkludert drikkekartonger og melkekartonger.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Emballasje\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 231,
+      "completion_tokens": 140,
+      "total_tokens": 371
+    }
+  },
+  {
+    "id": "chatcmpl-7zvj0HpIKV6hOMeW0mORZhjEcFXS2",
+    "object": "chat.completion",
+    "created": 1694994258,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"ELOPAK ASA\",\n  \"name\": \"Elopak ASA\",\n  \"id\": \"ELO\",\n  \"description\": \"Elopak ASA er et norsk selskap som produserer og leverer emballasjeløsninger til mat- og drikkeindustrien. Selskapet er spesialisert på kartongbaserte emballasjeprodukter, inkludert drikkekartonger og melkekartonger. Elopak har en global tilstedeværelse og betjener kunder over hele verden.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Emballasje\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 158,
+      "total_tokens": 388
+    }
+  },
+  {
+    "id": "chatcmpl-7zvj5w71KA6pL6YT0VoTvOHPmDSZY",
+    "object": "chat.completion",
+    "created": 1694994263,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"EQNR EQUINOR\",\n  \"name\": \"Equinor\",\n  \"id\": \"EQNR\",\n  \"description\": \"Equinor er et internasjonalt energiselskap med hovedkontor i Norge. Selskapet er engasjert i leting, produksjon, raffinering og distribusjon av olje og gass. Equinor er også involvert i fornybar energi, inkludert vindkraft og solenergi.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Energi\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 231,
+      "completion_tokens": 138,
+      "total_tokens": 369
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjA3HCD1FSfZDuliGs6T0zojcdL",
+    "object": "chat.completion",
+    "created": 1694994268,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"FRONTLINE LTD NORGE\",\n  \"name\": \"Frontline Ltd\",\n  \"id\": \"FRO\",\n  \"description\": \"Frontline Ltd er et shipping-selskap som driver med transport av råolje og oljeprodukter. Selskapet har en flåte av moderne tankskip og er en av verdens største aktører innenfor oljetransport.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Shipping\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 116,
+      "total_tokens": 346
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjFx0Hzjh2wIPBVCCZqmx7FZwdN",
+    "object": "chat.completion",
+    "created": 1694994273,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"FROT FRONTLINE\",\n  \"name\": \"Frontline Ltd\",\n  \"id\": \"FRO\",\n  \"description\": \"Frontline Ltd er et internasjonalt tankskipsrederi som driver med transport av råolje og petroleumsprodukter. Selskapet har en flåte bestående av moderne og effektive tankskip, og er en av verdens største aktører innenfor sin sektor.\",\n  \"country\": \"Bermuda\",\n  \"sector\": \"Shipping\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 229,
+      "completion_tokens": 126,
+      "total_tokens": 355
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjKVNm4nAefhJCLnX9RpoSygcUm",
+    "object": "chat.completion",
+    "created": 1694994278,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"GJF GJENSIDIGE FORSIKR\",\n  \"name\": \"Gjensidige Forsikring\",\n  \"id\": \"GJF\",\n  \"description\": \"Gjensidige Forsikring er et norsk forsikringsselskap som tilbyr skadeforsikring, personforsikring og pensjonssparing. Selskapet ble grunnlagt i 1816 og er i dag en av de største forsikringsaktørene i Norge.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Finansielle tjenester\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 237,
+      "completion_tokens": 147,
+      "total_tokens": 384
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjQcyWnkIayP5H6q5lt5csZ5nEE",
+    "object": "chat.completion",
+    "created": 1694994284,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"HEX\",\n  \"name\": \"Hexagon Composites ASA\",\n  \"id\": \"HEX\",\n  \"description\": \"Hexagon Composites ASA er en ledende leverandør av høytrykksløsninger for gasslagring og transport. Selskapet utvikler og produserer avanserte komposittsylindere og systemer for lagring og transport av naturgass, hydrogen og andre gasser.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Industri\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 226,
+      "completion_tokens": 128,
+      "total_tokens": 354
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjUASR3dZ1rPLcPSzkyuN8MWwdE",
+    "object": "chat.completion",
+    "created": 1694994288,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"HEX HEXAGON COMPOSITES\",\n  \"name\": \"Hexagon Composites\",\n  \"id\": \"HEX\",\n  \"description\": \"Hexagon Composites is a global leader in advanced composite pressure vessel technology. The company designs, manufactures, and sells high-pressure composite cylinders for a variety of applications, including natural gas transportation, hydrogen storage, and industrial gases. Hexagon Composites is known for its innovative solutions that provide lightweight and durable alternatives to traditional metal cylinders.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Industri\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 231,
+      "completion_tokens": 128,
+      "total_tokens": 359
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjYPs5MCqANJfZPQtFt34br4clG",
+    "object": "chat.completion",
+    "created": 1694994292,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"HEXAGON COMPOSITES\",\n  \"name\": \"Hexagon Composites\",\n  \"id\": \"HEX\",\n  \"description\": \"Hexagon Composites is a global leader in advanced composite pressure vessel technology. The company designs, manufactures, and sells high-pressure composite cylinders for a variety of applications, including natural gas transportation, hydrogen storage, and industrial gases. Hexagon Composites' innovative solutions contribute to reducing carbon emissions and improving energy efficiency.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Industri\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 123,
+      "total_tokens": 353
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjctLSc7dzzzNTBWpYz5zsK1D8m",
+    "object": "chat.completion",
+    "created": 1694994296,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"HEXAGON COMPOSITES ASA\",\n  \"name\": \"Hexagon Composites ASA\",\n  \"id\": \"HEX\",\n  \"description\": \"Hexagon Composites ASA er en ledende leverandør av høytrykksløsninger for gasslagring og transport. Selskapet utvikler og produserer komposittbeholdere og systemer for lagring og transport av naturgass, hydrogen og andre gasser. Hexagon Composites ASA betjener en rekke industrier, inkludert bilindustrien, energisektoren og maritim sektor.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Industri\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 231,
+      "completion_tokens": 162,
+      "total_tokens": 393
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjhq0MG5jhVIKm0Ja8XFfWwieLp",
+    "object": "chat.completion",
+    "created": 1694994301,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"HEXAGON PURUS AS\",\n  \"name\": \"Hexagon Purus AS\",\n  \"id\": \"HPUR\",\n  \"description\": \"Hexagon Purus AS er et norsk selskap som er spesialisert innenfor utvikling, produksjon og salg av høytrykksløsninger for lagring og transport av gasser. Selskapet tilbyr innovative og bærekraftige løsninger for hydrogen, naturgass, biogass og andre gasser. Hexagon Purus AS er en del av Hexagon-konsernet, som er en global leder innenfor gassløsninger.\",\n  \"country\": \"Norge\",\n  \"sector\": \"Industri\",\n  \"confidence\": 9\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 230,
+      "completion_tokens": 175,
+      "total_tokens": 405
+    }
+  },
+  {
+    "id": "chatcmpl-7zvjoSc4AurUGWKoOzkx7EOq0dFvA",
+    "object": "chat.completion",
+    "created": 1694994308,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"label\": \"aksjehandelslogg-beskrivelsen\",\n  \"name\": \"firmanavn\",\n  \"id\": \"unikt identifiserende navn\",\n  \"description\": \"beskrivelse av firmaet\",\n  \"country\": \"landet firmaet hører til\",\n  \"sector\": \"den økonomiske sektoren firmaet driver innenfor\",\n  \"confidence\": \"hvor sikker du er på svaret rangert mellom 1 og 10\"\n}"
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 225,
+      "completion_tokens": 113,
+      "total_tokens": 338
+    }
+  }
+]

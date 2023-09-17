@@ -1,0 +1,15 @@
+Identifiser og beskriv selskapet som blir referert til av denne aksjehandelslogg-beskrivelsen: {search}
+
+svar med et JSON-objekt som har følgende beskrivelse, nøkler på engelsk, verdier på norsk:
+
+{
+  label: den opprinnelige beskrivelsen jeg oppga
+  name: firmanavn
+  id: et unikt identifiserende navn for dette firmaet, for eksempel basert på hva det forkortes med på børsjen
+  description: beskrivelse av firmaet
+  country: landet firmaet hører til
+  sector: den økonomiske sektoren firmaet driver innenfor
+  confidence: hvor sikker du er på svaret rangert mellom 1 og 10
+}
+
+Ikke svar med noe mer tekst, annet enn dette JSON-objektet.
