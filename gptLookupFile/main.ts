@@ -13,14 +13,18 @@ async function main() {
 
   if (h) {
     console.log(`
-      use -i to set input file. 
+      -i: set input file. 
       it should be a list of strings separated by \\n
 
-      use -p to set template file.
+      -p: set template file.
       it should be a txt file with a template to be passed
       to chatgpt. use {search} to indicate where to input data.
 
-      use -k to set chatgpt api key
+      -k: set chatgpt api key
+      
+      -d: debug mode (more console logs)
+
+      -l: local mode - no requests to gpt sent
     `);
     return 1;
   }
