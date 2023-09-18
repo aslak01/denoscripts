@@ -1,13 +1,16 @@
-Identifiser og beskriv selskapet som blir referert til av denne aksjehandelslogg-beskrivelsen: {search}
+Identifiser og beskriv selskapet eller børsindeksen den følgende beskrivelsen av et finansielt produkt beskriver: {search}. Beskrivelsen stammer fra en handelsportefølje fra Oslo børs, så ta utgangspunkt i navngivningen der.
 
 svar med et JSON-objekt som har følgende beskrivelse, nøkler på engelsk, verdier på norsk:
 
 {
   label: den opprinnelige beskrivelsen jeg oppga
-  name: firmanavn
-  id: et unikt identifiserende navn for dette firmaet, for eksempel basert på hva det forkortes med på børsjen
-  description: beskrivelse av firmaet
-  country: landet firmaet hører til
+  name: firmanavn eller børsindeks
+  id: et unikt identifiserende navn for dette firmaet eller børsindeksen, for eksempel basert på hva det forkortes med på børsjen, ikke inkluder modifiserende faktorer som BEAR eller multiplikasjon. Hvis beskrivelsen nevner BEAR eller BULL vil denne ID-en som regel være det som nevnes rett etterpå, med eller uten mellomrom mellom. For eksempel er id-en jeg er interessert i her for "BEARDAXX5NON" "DAXX", og i "BEAR YAR X3 NORDNET" "YAR".
+  modifier: hvis det finansielle produktet spesifiserer i beskrivelsen sin hvorvidt det er en bull eller bear handel, evt med en faktor, spesifiser dette her, f.eks. "BULL". La feltet være tomt hvis ingen slik spesifisering er nevnt.
+  modifier_factor: Hvis modifikasjonen har en faktor som X5, eller non-leveraged, spesifiser dette her. La feltet være tomt hvis ikke.
+  description: kort beskrivelse av firmaet eller indeksen som ble handlet, altså firmaet referert til med feltet "id" over. Ikke plattformen det ble handlet på, men selve firmaet eller indeksen som ble kjøpt eller solgt. For eksempel er "BEAR YAR X3 NORDNET" en referanse til firmaet "YAR.OL" altså Yara, og "BEAR TEL X3 NORDNET" en referanse til firmaet "TEL.OL" altså Telenor. Fortell kort hva dette er for et firma.
+  trade_description: kort beskrivelse av måten handelen ble gjennomført på, hvis det er en bull/bear handel (referert til i feltene modifier og modifier_factor over), hva det innebærer. La feltet være tomt hvis ikke relevant
+  country: landet firmaet eller indeksen hører til
   sector: den økonomiske sektoren firmaet driver innenfor
   confidence: hvor sikker du er på svaret rangert mellom 1 og 10
 }

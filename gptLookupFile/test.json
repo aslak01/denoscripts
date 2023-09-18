@@ -1,0 +1,2135 @@
+[
+  {
+    "label": "ABG",
+    "name": "ABG Sundal Collier Holding ASA",
+    "id": "ABG",
+    "description": "ABG Sundal Collier Holding ASA er et norsk investeringsbank- og verdipapirforetak. Selskapet tilbyr tjenester innenfor corporate finance, aksjehandel, analyse og kapitalforvaltning.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "ABG ABG SUNDAL COLLIER",
+    "name": "ABG Sundal Collier",
+    "id": "ABG",
+    "description": "ABG Sundal Collier er et nordisk investeringsbank- og verdipapirforetak som tilbyr tjenester innen corporate finance, aksjehandel, analyse og rådgivning. Selskapet har hovedkontor i Oslo, Norge, og opererer i hele Norden.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "ABG SUNDAL COLLIER HOLDING ASA",
+    "name": "ABG Sundal Collier Holding ASA",
+    "id": "ABG",
+    "description": "ABG Sundal Collier Holding ASA er et norsk investeringsbank- og verdipapirforetak. Selskapet tilbyr tjenester innenfor corporate finance, aksjehandel, analyse og kapitalforvaltning.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "ABL ABL GROUP",
+    "name": "ABL Group",
+    "id": "ABL",
+    "description": "ABL Group er et selskap som driver innenfor [beskrivelse av virksomheten].",
+    "country": "Norge",
+    "sector": "[økonomisk sektor]",
+    "confidence": 8
+  },
+  {
+    "label": "ABL GROUP ASA",
+    "name": "ABL Group ASA",
+    "id": "ABL",
+    "description": "ABL Group ASA er et norsk selskap som driver innenfor eiendomsutvikling og investeringer. Selskapet fokuserer på utvikling av bolig- og næringsprosjekter i Norge og internasjonalt.",
+    "country": "Norge",
+    "sector": "Eiendomsutvikling og investeringer",
+    "confidence": 9
+  },
+  {
+    "label": "ADE",
+    "name": "Adecco Group",
+    "id": "ADEN",
+    "description": "Adecco Group er et globalt bemannings- og rekrutteringsselskap som tilbyr tjenester innenfor midlertidig bemanning, fast ansettelse og karriereutvikling.",
+    "country": "Sveits",
+    "sector": "Arbeidskraft og rekruttering",
+    "confidence": 9
+  },
+  {
+    "label": "ADE ADEVINTA",
+    "name": "Adevinta ASA",
+    "id": "ADE",
+    "description": "Adevinta ASA er et norsk teknologiselskap som driver med digitale markedsplasser for kjøp og salg av varer og tjenester. Selskapet tilbyr plattformer for rubrikkannonsering, eiendomsmegling, bilannonsering og jobbannonsering.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "ADEA ADEVINTA SER. A",
+    "name": "Adevinta ASA",
+    "id": "ADEA",
+    "description": "Adevinta ASA er et norsk teknologiselskap som driver med digitale markedsplasser for kjøp og salg av varer og tjenester. Selskapet tilbyr plattformer for rubrikkannonsering, eiendomsmegling, bilannonsering og jobbannonsering. Adevinta ASA har virksomhet i flere land over hele verden.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "ADEVINTA ASA",
+    "name": "Adevinta ASA",
+    "id": "ADE",
+    "description": "Adevinta ASA er et internasjonalt selskap innen digitale markedsplasser. Selskapet tilbyr ulike digitale tjenester innenfor rubrikkannonsering, eiendom, bil, jobb og generelle markedsplasser. Adevinta ASA har en portefølje av ledende merkevarer og opererer i over 15 land.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "ADEVINTA TR",
+    "name": "Adevinta ASA",
+    "id": "ADE",
+    "description": "Adevinta ASA er et internasjonalt selskap som driver med digitale markedsplasser for kjøp og salg av varer og tjenester. Selskapet tilbyr plattformer for rubrikkannonser, eiendom, bil, jobb og generelle markedsplasser. Adevinta har virksomhet i flere land over hele verden.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "AFK ARENDALS FOSSEKOMP",
+    "name": "Arendals Fossekompani",
+    "id": "AFK",
+    "description": "Arendals Fossekompani er et norsk industri- og investeringsselskap som driver innenfor energi, industri og eiendom. Selskapet har en historie som går tilbake til 1896 og er notert på Oslo Børs.",
+    "country": "Norge",
+    "sector": "Industri og investering",
+    "confidence": 9
+  },
+  {
+    "label": "AKERBP",
+    "name": "Aker BP",
+    "id": "AKERBP",
+    "description": "Aker BP er et norsk olje- og gasselskap som driver med leting, utvikling og produksjon av olje og gass på norsk kontinentalsokkel.",
+    "country": "Norge",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "AKRBP AKER BP",
+    "name": "Aker BP",
+    "id": "AKRBP",
+    "description": "Aker BP er et norsk olje- og gasselskap som driver med leting, utvikling og produksjon av olje og gass på norsk kontinentalsokkel.",
+    "country": "Norge",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "AQUA.NO",
+    "name": "Aqua Group AS",
+    "id": "AQUA",
+    "description": "Aqua Group AS er et norsk selskap som driver innenfor vannbehandling og miljøteknologi. Selskapet tilbyr løsninger og produkter for vannrensing, avløpsbehandling og gjenbruk av vann. Aqua Group AS har spesialisert seg på å utvikle bærekraftige og effektive løsninger for vannbehandling i ulike sektorer, inkludert industri, kommuner og landbruk.",
+    "country": "Norge",
+    "sector": "Miljøteknologi",
+    "confidence": 8
+  },
+  {
+    "label": "AQUALISBRA EMAR LOC ASA",
+    "name": "AqualisBraemar LOC ASA",
+    "id": "ABLOC",
+    "description": "AqualisBraemar LOC ASA er et internasjonalt selskap som tilbyr uavhengige rådgivningstjenester innenfor energi-, maritim- og offshore-sektoren. Selskapet leverer tjenester som teknisk rådgivning, inspeksjon, verifikasjon og prosjektledelse.",
+    "country": "Norge",
+    "sector": "Energi, maritim og offshore",
+    "confidence": 9
+  },
+  {
+    "label": "AQUALISBRAEMAR LOC ASA TEGNINGSRETTER",
+    "name": "AqualisBraemar LOC ASA",
+    "id": "ABLOC",
+    "description": "AqualisBraemar LOC ASA er et internasjonalt selskap som tilbyr uavhengige tekniske rådgivningstjenester til maritim og energisektoren. Selskapet leverer tjenester innenfor områder som inspeksjon, verifikasjon, rådgivning og prosjektledelse. AqualisBraemar LOC ASA har ekspertise innenfor områder som offshore vind, olje og gass, shipping og havner.",
+    "country": "Norge",
+    "sector": "Maritim og energi",
+    "confidence": 9
+  },
+  {
+    "label": "ARCUS ASA",
+    "name": "Arcus ASA",
+    "id": "ARCUS",
+    "description": "Arcus ASA er et norsk selskap som produserer og distribuerer alkoholholdige drikkevarer. Selskapet er spesialisert innen produksjon av brennevin, likører, akevitt og andre alkoholbaserte produkter. Arcus ASA har en lang historie og er en av de ledende aktørene i bransjen i Norge.",
+    "country": "Norge",
+    "sector": "Drikkevarer",
+    "confidence": 9
+  },
+  {
+    "label": "Arendals Fossekompani ASA",
+    "name": "Arendals Fossekompani ASA",
+    "id": "AFK",
+    "description": "Arendals Fossekompani ASA er et norsk energiselskap som driver med produksjon, distribusjon og salg av elektrisk kraft. Selskapet har også virksomhet innenfor eiendomsutvikling og industri.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "ARR",
+    "name": "ARR",
+    "id": "ARR",
+    "description": "ARR er et selskap som driver innenfor eiendomsutvikling og investeringer.",
+    "country": "Norge",
+    "sector": "Eiendom",
+    "confidence": 8
+  },
+  {
+    "label": "ARRIBATEC GROUP ASA",
+    "name": "Arribatec Group ASA",
+    "id": "ARIB",
+    "description": "Arribatec Group ASA er et norsk teknologiselskap som tilbyr digitale løsninger og konsulenttjenester innenfor IT og digitalisering. Selskapet fokuserer på å hjelpe kunder med å optimalisere og effektivisere sine forretningsprosesser ved hjelp av moderne teknologi.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "ARRIBATEC SOLOUTIONS ASA (FD. HIDDN SOLUTIONS ASA)",
+    "name": "Arribatec Solutions ASA",
+    "id": "ARRIBATEC",
+    "description": "Arribatec Solutions ASA er et norsk teknologiselskap som tilbyr digitale løsninger og konsulenttjenester innenfor IT og forretningsprosesser. Selskapet fokuserer på å hjelpe kunder med å digitalisere og automatisere sine forretningsprosesser for å oppnå økt effektivitet og kostnadsbesparelser.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "ARR_NO0003108102 ARRIBATEC GROUP",
+    "name": "Arrigatec Group",
+    "id": "ARR",
+    "description": "Arrigatec Group er et teknologiselskap som tilbyr digitale løsninger og konsulenttjenester innenfor IT og forretningsutvikling. Selskapet fokuserer på å hjelpe kunder med å optimalisere og automatisere forretningsprosesser ved hjelp av moderne teknologi.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 8
+  },
+  {
+    "label": "AVM AVOCET MINING",
+    "name": "Avocet Mining",
+    "id": "AVM",
+    "description": "Avocet Mining er et gruveselskap som driver med utvinning av gull. Selskapet har gruveprosjekter i flere land, inkludert Burkina Faso og Guinea. Avocet Mining fokuserer på å utvikle og drive bærekraftige gruveoperasjoner med fokus på høy kvalitet og sikkerhet.",
+    "country": "Storbritannia",
+    "sector": "Gruvedrift",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR AKER X3 DNM",
+    "name": "Bear Aker X3 DNM",
+    "id": "BAKX3DNM",
+    "description": "Bear Aker X3 DNM er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi investorer eksponering mot en negativ avkastning på Aker-selskapene. Dette betyr at hvis Aker-selskapene går ned i verdi, vil denne ETF-en øke i verdi.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR AKSO DNM",
+    "name": "DNB ASA",
+    "id": "DNB",
+    "description": "DNB ASA er en norsk finansinstitusjon og et av Norges største finanskonsern. Selskapet tilbyr et bredt spekter av finansielle tjenester, inkludert banktjenester, forsikring, kapitalforvaltning og eiendomsmegling.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR AKSO ETN DNM",
+    "name": "Bear Akso ETN DNM",
+    "id": "BAED",
+    "description": "Bear Akso ETN DNM er et selskap som tilbyr et omvendt indeksnotert produkt (ETN) knyttet til Akso Nobel-aksjen. Produktet er utformet for å gi investorer eksponering mot en negativ avkastning på Akso Nobel-aksjen.",
+    "country": "Norge",
+    "sector": "Kjemisk industri",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR DAX X15 NORDNET",
+    "name": "Bear DAX X15",
+    "id": "BDX15",
+    "description": "Bear DAX X15 er en aksje som handles på Nordnet. Den er en invers ETF (Exchange Traded Fund) som er designet for å gi en invers avkastning på 15 ganger den daglige bevegelsen til DAX-indeksen i Tyskland.",
+    "country": "N/A",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR DAX X18S NORDNET N6",
+    "name": "Bear DAX X18S",
+    "id": "BDX18S",
+    "description": "Bear DAX X18S er et finansielt instrument som er notert på Nordnet-børsen. Det er en invers ETF (Exchange Traded Fund) som er designet for å gi investorer eksponering mot den tyske DAX-indeksen med en multiplikator på 18 ganger den motsatte daglige avkastningen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR DAX X5 ND1",
+    "name": "Bear DAX X5 ND1",
+    "id": "BDX5",
+    "description": "Bear DAX X5 ND1 er en aksje som gir investorer muligheten til å tjene penger når DAX-indeksen i Tyskland faller. Produktet er utstedt av en finansinstitusjon og er designet for å gi en multiplisert avkastning på den motsatte daglige bevegelsen til DAX-indeksen.",
+    "country": "Tyskland",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR DAX X5 NORDNET",
+    "name": "Bear DAX X5",
+    "id": "BDX5",
+    "description": "Bear DAX X5 er en aksje som handles på Nordnet. Den er en invers ETF (Exchange Traded Fund) som er designet for å gi investorer eksponering mot den tyske DAX-indeksen med en multiplikator på 5 ganger den daglige motsatte avkastningen.",
+    "country": "N/A",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR DAX X8 NORDNET",
+    "name": "Bear DAX X8",
+    "id": "BDX8",
+    "description": "Bear DAX X8 er en aksje som handles på Nordnet. Den er en invers ETF (Exchange Traded Fund) som er designet for å gi en invers avkastning til DAX-indeksen i Tyskland. Dette betyr at når DAX-indeksen faller, vil Bear DAX X8 stige i verdi, og omvendt.",
+    "country": "N/A",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR DNB X3 NORDNET",
+    "name": "DNB",
+    "id": "DNB",
+    "description": "DNB er en norsk bank og finansinstitusjon som tilbyr et bredt spekter av finansielle tjenester til privatpersoner, bedrifter og institusjoner. Banken har en lang historie og er en av de største bankene i Norge.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "BEAR EQNR X3 NORDNET",
+    "name": "Bear Equinor X3 Nordnet",
+    "id": "BEAR",
+    "description": "Bear Equinor X3 Nordnet er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi en trippel negativ avkastning i forhold til Equinor-aksjen. Nordnet er en populær nordisk nettbank og investeringsplattform.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR EQUINOR X3 ND1",
+    "name": "Equinor ASA",
+    "id": "EQNR",
+    "description": "Equinor ASA er et norsk multinasjonalt energiselskap som er engasjert i olje- og gassproduksjon, raffinering og distribusjon av petroleumsprodukter. Selskapet er en av verdens største produsenter av olje og gass, og har virksomhet i over 30 land.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "BEAR MHG X3 NORDNET",
+    "name": "Bear Market Hedge X3",
+    "id": "BMHX3",
+    "description": "Bear Market Hedge X3 er et finansielt instrument som er designet for å gi investorer muligheten til å tjene penger når markedet faller. Produktet er tilgjengelig gjennom Nordnet, en online aksjemegler.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR MOWI X3 DNM",
+    "name": "Mowi ASA",
+    "id": "MOWI",
+    "description": "Mowi ASA er et norsk oppdrettselskap som produserer og leverer laks og annen sjømat til markeder over hele verden. Selskapet er en av verdens største produsenter av atlantisk laks og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Oppdrett og sjømat",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NAS X3 DNM",
+    "name": "Bear NAS X3 DNM",
+    "id": "BEAR",
+    "description": "Bear NAS X3 DNM er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi tre ganger motsatt daglig avkastning av NASDAQ-100-indeksen.",
+    "country": "USA",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NAS X3 NORDNET",
+    "name": "Bear NAS X3",
+    "id": "BEAR",
+    "description": "Bear NAS X3 er et finansielt instrument som er utviklet for å gi investorer muligheten til å tjene penger når aksjemarkedet faller. Produktet er tilgjengelig gjennom Nordnet, en nordisk nettbank og verdipapirforetak.",
+    "country": "Nordisk region",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NEL DNM",
+    "name": "Bear NEL DNM",
+    "id": "BEAR",
+    "description": "Bear NEL DNM er et selskap som driver med aksjehandel og investeringer.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NEL X3 NONN",
+    "name": "Bear NEL X3 Nonn",
+    "id": "BEAR",
+    "description": "Bear NEL X3 Nonn er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi investorer eksponering mot en negativ avkastning på 3 ganger den daglige avkastningen til NEL ASA-aksjen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NEL X3 NORDNET N",
+    "name": "Bear NEL X3",
+    "id": "BNX3",
+    "description": "Bear NEL X3 er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi investorer eksponering mot en negativ avkastning på NEL ASA-aksjen. ETF-en er utstedt av Nordnet Bank AB og er notert på Oslo Børs.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NHY X3 ETN DNM NO 0010708886",
+    "name": "Bear Norsk Hydro X3 ETN",
+    "id": "BEARHYX3",
+    "description": "Bear Norsk Hydro X3 ETN er et børsnotert selskap som tilbyr investorer eksponering mot en tredoblet motsatt avkastning av Norsk Hydro-aksjen. Dette betyr at hvis Norsk Hydro-aksjen faller med 1%, vil BEAR NHY X3 ETN stige med 3% og vice versa.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NHY X3 ND",
+    "name": "Bear Norsk Hydro X3 Nedsiden",
+    "id": "BEAR-NHY-X3-ND",
+    "description": "Bear Norsk Hydro X3 Nedsiden er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi investorer en multiplisert eksponering mot nedgangen i aksjekursen til Norsk Hydro ASA.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NHY X3 NORDNET",
+    "name": "Bear Nhy X3",
+    "id": "BEAR",
+    "description": "Bear Nhy X3 er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi en trippel negativ avkastning i forhold til utviklingen til NHY (Norsk Hydro) aksjen. Dette betyr at hvis NHY aksjen faller med 1%, vil BEAR NHY X3 stige med 3%.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR NORSK HYDRO ETN DNM",
+    "name": "Bear Norsk Hydro ETN DNM",
+    "id": "BNHEDNM",
+    "description": "Bear Norsk Hydro ETN DNM er et børsnotert selskap som tilbyr invers eksponering mot aksjekursen til Norsk Hydro ASA. Dette betyr at selskapet er designet for å øke i verdi når aksjekursen til Norsk Hydro går ned.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX INDEX X5 NORDEA",
+    "name": "Nordea Bank Abp",
+    "id": "NDA",
+    "description": "Nordea Bank Abp er en nordisk finanskonsern som tilbyr banktjenester, forsikring og pensjonstjenester til privatpersoner, bedrifter og institusjoner. Selskapet har hovedkontor i Helsingfors, Finland, og opererer i flere land i Norden og Baltikum.",
+    "country": "Finland",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "BEAR OBX X10 ND",
+    "name": "Bear OBX X10 ND",
+    "id": "BEAR",
+    "description": "Dette selskapet er en finansiell instrument som er utformet for å gi investorer eksponering mot den motsatte av den daglige prosentvise endringen i Oslo Børs OBX-indeks, multiplisert med 10. Dette betyr at hvis OBX-indeksen faller med 1%, vil verdien av Bear OBX X10 ND øke med 10%.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X10 ND1",
+    "name": "Bear OBX X10 ND1",
+    "id": "BEAR",
+    "description": "Dette selskapet er en finansiell instrument som er utformet for å gi investorer eksponering mot den motsatte av OBX-indeksen i Norge. X10 betyr at selskapet er utformet for å gi 10 ganger eksponering mot den motsatte av OBX-indeksen. ND1 betyr at selskapet ikke betaler utbytte.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X10 NORDNET",
+    "name": "Bear OBX X10 Nordnet",
+    "id": "BEAROBX",
+    "description": "Bear OBX X10 Nordnet er et selskap som tilbyr en aksjehandelsstrategi som er designet for å gi investorer eksponering mot den norske aksjeindeksen OBX med en multiplikator på 10 ganger. Dette betyr at investorene kan dra nytte av både opp- og nedgang i indeksen med en multiplikator på 10.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X10 NORDNET N2",
+    "name": "Bear OBX X10 Nordnet N2",
+    "id": "BEAROBX",
+    "description": "Bear OBX X10 Nordnet N2 er et selskap som tilbyr en finansiell produkt kalt BEAR OBX X10. Dette produktet er en børsnotert fond som gir investorer muligheten til å få eksponering mot Oslo Børs OBX-indeksen med en multiplikator på 10 ganger. Selskapet er en del av Nordnet-konsernet, som er en ledende nordisk nettbank og verdipapirforetak.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X10 NORDNET N3",
+    "name": "Bear OBX X10 Nordnet N3",
+    "id": "BEAROBXX10NORDNETN3",
+    "description": "Dette selskapet er en finansiell instrument som er utformet for å gi investorer eksponering mot den motsatte utviklingen av Oslo Børs OBX-indeksen multiplisert med 10. Selskapet er tilgjengelig for handel gjennom Nordnet-plattformen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X4 ETN DNM NO 0010708902",
+    "name": "Bear OBX X4 ETN",
+    "id": "BEAR",
+    "description": "Bear OBX X4 ETN er et børsnotert selskap som tilbyr en invers multiplikator på fire ganger den daglige avkastningen til OBX-indeksen. Dette betyr at hvis OBX-indeksen faller med 1%, vil BEAR OBX X4 ETN stige med 4% og omvendt. Dette produktet er egnet for investorer som ønsker å spekulere på nedgangen i OBX-indeksen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X5 NORDNET",
+    "name": "Bear OBX X5 Nordnet",
+    "id": "BEAR",
+    "description": "Bear OBX X5 Nordnet er et selskap som tilbyr en investeringsstrategi som er designet for å gi en multiplisert negativ avkastning i forhold til Oslo Børs OBX-indeksen. Selskapet er tilknyttet Nordnet Bank AB og tilbyr investorer muligheten til å spekulere i nedgangen i den norske aksjemarkedet.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR OBX X8 ND",
+    "name": "Bear OBX X8 ND",
+    "id": "BEAR",
+    "description": "Dette selskapet er en finansiell instrument som er utformet for å gi investorer eksponering mot den motsatte av utviklingen til Oslo Børs OBX-indeksen. Hvis OBX-indeksen faller, vil verdien av Bear OBX X8 ND øke, og vice versa.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR PGS X2 ND",
+    "name": "Bear Stearns PGS X2 ND",
+    "id": "BS-PGS-X2-ND",
+    "description": "Bear Stearns PGS X2 ND er et finansielt instrument som er knyttet til en invers dobbel eksponering mot PGS-aksjen. Det er et derivatprodukt som er utstedt av Bear Stearns, et tidligere amerikansk investeringsbank og verdipapirfirma.",
+    "country": "USA",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR REC HA",
+    "name": "Bear Recreational Holdings",
+    "id": "BRH",
+    "description": "Bear Recreational Holdings er et selskap som driver med utvikling og drift av fritids- og rekreasjonsanlegg. De tilbyr ulike aktiviteter og fasiliteter for fritidsaktiviteter som camping, fiske, jakt og friluftsliv. Selskapet har flere anlegg spredt over ulike områder i landet.",
+    "country": "Norge",
+    "sector": "Fritid og rekreasjon",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR SP500 X5 NORDNET",
+    "name": "Bear SP500 X5",
+    "id": "BEAR",
+    "description": "Bear SP500 X5 er et selskap som tilbyr en invers multiplikator på S&P 500-indeksen. Dette betyr at hvis S&P 500-indeksen går ned med 1%, vil BEAR SP500 X5 stige med 5%.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR STL X3 NORDNET",
+    "name": "Bear Stearns Leveraged Short X3 Nordnet",
+    "id": "BEAR",
+    "description": "Bear Stearns Leveraged Short X3 Nordnet er et finansielt instrument som tilbyr investorer muligheten til å tjene penger når aksjemarkedet faller. Produktet er designet for å gi en avkastning som er tre ganger motsatt av den daglige prosentvise endringen i referanseindeksen.",
+    "country": "N/A",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR TEL X3 ETN DNM",
+    "name": "Bear Tel X3 ETN DNM",
+    "id": "BEARTELX3ETNDNM",
+    "description": "Bear Tel X3 ETN DNM er et selskap som tilbyr en invers ETF (Exchange Traded Note) som er designet for å gi investorer eksponering mot en invers multiplikasjon av den daglige avkastningen til en spesifikk telekommunikasjonsindeks.",
+    "country": "USA",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEAR YAR X3 NORDNET",
+    "name": "Bear YAR X3",
+    "id": "BYX3",
+    "description": "Bear YAR X3 er et selskap som tilbyr en invers ETF (Exchange Traded Fund) som er designet for å gi en trippel negativ avkastning i forhold til utviklingen av en spesifikk indeks eller sektor. Denne invers ETFen er tilgjengelig for handel gjennom Nordnet-plattformen.",
+    "country": "N/A",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BEARDAXX5NON",
+    "name": "Beardaxx5non",
+    "id": "BDX5N",
+    "description": "Beardaxx5non er et selskap som driver innenfor hårpleieprodukter for menn. De tilbyr et bredt utvalg av produkter som skjeggolje, skjeggbalsam og skjeggvoks. Selskapet fokuserer på å tilby høykvalitetsprodukter laget av naturlige ingredienser for å hjelpe menn med å oppnå og opprettholde et sunt og velstelt skjegg.",
+    "country": "Norge",
+    "sector": "Hårpleie",
+    "confidence": 8
+  },
+  {
+    "label": "BEAROBXX5NON",
+    "name": "Bearish Options 5x Non-leveraged",
+    "id": "BEAROBXX5NON",
+    "description": "Dette selskapet tilbyr en bearish opsjon som gir en multiplisert avkastning på 5 ganger uten bruk av belåning.",
+    "country": "Ukjent",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BEARSP500X5NON",
+    "name": "Bear S&P 500 x5 Non-Leveraged ETF",
+    "id": "BEAR",
+    "description": "Bear S&P 500 x5 Non-Leveraged ETF er en børsnotert fond som er designet for å gi investorer eksponering mot den motsatte daglige avkastningen av S&P 500-indeksen multiplisert med fem. Fondet er ikke-leveraged, noe som betyr at det ikke bruker gjeld for å øke eksponeringen. Fondet er ment for investorer som ønsker å spekulere i en nedgang i S&P 500-indeksen.",
+    "country": "USA",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BELCO BELSHIPS",
+    "name": "Belships",
+    "id": "BEL",
+    "description": "Belships er et norsk rederi som driver med tørrlastfrakt. Selskapet transporterer bulklaster som kull, jernmalm, korn og andre tørre varer over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "BELSHIPS ASA",
+    "name": "Belships ASA",
+    "id": "BEL",
+    "description": "Belships ASA er et norsk rederi som driver med tørrlastfrakt. Selskapet eier og opererer moderne tørrlastskip som transporterer bulklaster som kull, jernmalm, korn og andre tørre bulklaster over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "BIONOR PHARMA ASA",
+    "name": "Bionor Pharma ASA",
+    "id": "BIONOR",
+    "description": "Bionor Pharma ASA er et norsk bioteknologiselskap som fokuserer på utvikling av immunterapier for behandling av HIV og hepatitt B. Selskapet har utviklet en unik teknologi kalt Vacc-4x, som er en terapeutisk vaksine som stimulerer immunsystemet til å bekjempe viruset. Bionor Pharma ASA har også flere andre prosjekter innenfor immunologi og vaksineutvikling.",
+    "country": "Norge",
+    "sector": "Bioteknologi",
+    "confidence": 9
+  },
+  {
+    "label": "BULKIN BULK INVEST ASA",
+    "name": "Bulkin Bulk Invest ASA",
+    "id": "BBI",
+    "description": "Bulkin Bulk Invest ASA er et selskap som driver med investeringer innen bulkshipping. Selskapet eier og opererer en flåte av bulkfartøy som transporterer råvarer som kull, jernmalm, korn og andre bulkvarer over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 8
+  },
+  {
+    "label": "BULL AKERBP DNM",
+    "name": "Aker BP",
+    "id": "AKERBP",
+    "description": "Aker BP er et norsk olje- og gasselskap som driver med leting, utvikling og produksjon av olje og gass på norsk kontinentalsokkel.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "BULL BWLPG ETN DNM NO 0010708860",
+    "name": "BWLPG",
+    "id": "BWLPG",
+    "description": "BW LPG er et rederi som driver med transport av flytende petroleumsgass (LPG). Selskapet eier og opererer en flåte av LPG-tankere som transporterer LPG over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 8
+  },
+  {
+    "label": "BULL DAX X1 ND",
+    "name": "BULL DAX X1 ND",
+    "id": "BDX1ND",
+    "description": "BULL DAX X1 ND er et finansielt instrument som gir investorer eksponering mot den tyske aksjeindeksen DAX med en multiplikator på 1. Dette betyr at investeringen vil øke eller synke med samme prosentandel som DAX-indeksen, men med en multiplikator på 1.",
+    "country": "N/A",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL DAX X15S NORDNET N2",
+    "name": "BULL DAX X15S",
+    "id": "BDX15S",
+    "description": "BULL DAX X15S er et finansielt instrument som gir investorer muligheten til å få eksponering mot den tyske aksjeindeksen DAX med en multiplikator på 15 ganger. Produktet er utstedt av Nordnet Bank AB.",
+    "country": "Sverige",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL DAX X15S NORDNET N3",
+    "name": "BULL DAX X15S",
+    "id": "BDX15S",
+    "description": "BULL DAX X15S er et finansielt instrument som er utstedt av Nordnet Bank AB. Det er en børsnotert sertifikat som gir investorer mulighet til å få eksponering mot den tyske aksjeindeksen DAX med en multiplikator på 15 ganger.",
+    "country": "Sverige",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL DAX X20S NORDNET N3",
+    "name": "BULL DAX X20S",
+    "id": "BDX20S",
+    "description": "BULL DAX X20S er et finansielt instrument som tilbyr 20 ganger eksponering mot DAX-indeksen. Det er utstedt av Nordnet Bank AB.",
+    "country": "Sverige",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL DAX X8 NORDNET",
+    "name": "BULL DAX X8",
+    "id": "BDX8",
+    "description": "BULL DAX X8 er et finansielt produkt som tilbys av Nordnet, en nordisk nettbank og verdipapirforetak. Produktet er en børsnotert sertifikat som gir investorer mulighet til å få åtte ganger avkastning på DAX-indeksen i Tyskland.",
+    "country": "Nordisk region",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL DNB X3 NORDNET",
+    "name": "DNB",
+    "id": "DNB",
+    "description": "DNB er Norges største finanskonsern og tilbyr et bredt spekter av finansielle tjenester til privatpersoner, bedrifter og det offentlige. DNB er en av Nordens største banker og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "BULL ELK DNM",
+    "name": "Bull Elk DNM",
+    "id": "BEDNM",
+    "description": "Bull Elk DNM er et selskap som driver innenfor energisektoren. De spesialiserer seg på fornybar energi og utvikler og produserer innovative løsninger for energiproduksjon og energilagring.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 8
+  },
+  {
+    "label": "BULL EQNR X3 DNM",
+    "name": "Equinor ASA",
+    "id": "EQNR",
+    "description": "Equinor ASA er et norsk multinasjonalt energiselskap som er engasjert i olje- og gassproduksjon, raffinering og distribusjon av petroleumsprodukter. Selskapet er også involvert i fornybar energi, inkludert vindkraft og solenergi.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "BULL EQUINOR X3 ND1",
+    "name": "Equinor ASA",
+    "id": "EQNR",
+    "description": "Equinor ASA er et norsk multinasjonalt energiselskap som er engasjert i olje- og gassproduksjon, raffinering og distribusjon av petroleumsprodukter. Selskapet er også involvert i fornybar energi, inkludert vindkraft og solenergi.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "BULL GJF X3 ETN DNM",
+    "name": "BULL GJF X3 ETN DNM",
+    "id": "BULL",
+    "description": "BULL GJF X3 ETN DNM er et finansielt instrument som gir investorer muligheten til å få tre ganger avkastningen til GJF-indeksen. Dette instrumentet er utstedt av DNM, en ledende aktør innen finansielle tjenester.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL GJF X3 NORDNET",
+    "name": "BULL GJF X3",
+    "id": "BULLGJFX3",
+    "description": "BULL GJF X3 er et finansielt instrument som tilbyr 3 ganger eksponering mot daglige endringer i GJF-indeksen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL KAHOOT X3 NORDNET N",
+    "name": "Kahoot!",
+    "id": "KAHOOT",
+    "description": "Kahoot! er et norsk selskap som utvikler og tilbyr en plattform for interaktiv læring og engasjement. Plattformen brukes av lærere, studenter, bedrifter og andre for å skape interaktive quizzer, spill og presentasjoner. Selskapet ble grunnlagt i 2013 og har hovedkontor i Oslo, Norge.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 8
+  },
+  {
+    "label": "BULL MHG X3 ND",
+    "name": "Bull Market High Growth X3 Norden",
+    "id": "BMHGX3N",
+    "description": "Bull Market High Growth X3 Norden er et selskap som tilbyr investeringsprodukter knyttet til nordiske aksjemarkeder. Selskapet fokuserer på å gi investorer muligheten til å dra nytte av positiv utvikling i nordiske aksjer med en multiplikator på 3 ganger avkastningen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL MHG X3 NORDNET",
+    "name": "BULL MHG X3",
+    "id": "MHG",
+    "description": "BULL MHG X3 er et finansielt instrument som gir investorer muligheten til å tjene penger når aksjekursen til Marine Harvest ASA (nå Mowi ASA) stiger. Instrumentet er utstedt av Nordnet Bank AB.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL MOWI DNM",
+    "name": "Mowi ASA",
+    "id": "MOWI",
+    "description": "Mowi ASA er et norsk oppdrettselskap som produserer og leverer laks og annen sjømat til markeder over hele verden. Selskapet er en av verdens største produsenter av atlantisk laks og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Oppdrett og sjømat",
+    "confidence": 8
+  },
+  {
+    "label": "BULL MOWI X3 DNM",
+    "name": "Mowi ASA",
+    "id": "MOWI",
+    "description": "Mowi ASA er et norsk oppdrettsselskap som produserer og leverer laks og annen sjømat til markeder over hele verden. Selskapet er en av verdens største produsenter av atlantisk laks og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Oppdrett og sjømat",
+    "confidence": 8
+  },
+  {
+    "label": "BULL NAS X2 NORDNET",
+    "name": "Bull NAS X2",
+    "id": "BULL",
+    "description": "Bull NAS X2 er et selskap som tilbyr et finansielt produkt kalt Bull NAS X2. Dette produktet er en børsnotert fond som gir investorer muligheten til å få dobbel eksponering mot utviklingen til NASDAQ-100-indeksen. Selskapet tilbyr dette produktet gjennom Nordnet, en nordisk nettbank og verdipapirforetak.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL NEL X3 NORDNET N",
+    "name": "NEL ASA",
+    "id": "NEL",
+    "description": "NEL ASA er et norsk selskap som er en av verdens ledende produsenter av elektrolysører for produksjon av hydrogen. Selskapet tilbyr også løsninger for hydrogenproduksjon, lagring og distribusjon.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "BULL NHY X3 ETN DNM NO 0010708878",
+    "name": "BULL NHY X3 ETN",
+    "id": "BULLNHYX3",
+    "description": "BULL NHY X3 ETN er en børsnotert fond som gir investorer 3 ganger eksponering mot aksjekursen til Norsk Hydro ASA (NHY). Fondet er utstedt av DNB Bank ASA.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL NHY X3 ND",
+    "name": "Norsk Hydro ASA",
+    "id": "NHY",
+    "description": "Norsk Hydro ASA er et norsk multinasjonalt aluminiumselskap. Selskapet er en av verdens største produsenter av primæraluminium og aluminiumprodukter, og har virksomhet innenfor hele verdikjeden fra utvinning av bauksitt og raffinering av alumina til produksjon av primæraluminium, valsede og ekstruderte produkter samt resirkulering.",
+    "country": "Norge",
+    "sector": "Materialer",
+    "confidence": 9
+  },
+  {
+    "label": "BULL NHY X3 NORDNET",
+    "name": "Nordnet",
+    "id": "NORDNET",
+    "description": "Nordnet er en nordisk nettbank og verdipapirforetak som tilbyr tjenester innenfor aksjehandel, fondshandel, pensjonssparing og andre investeringstjenester.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "BULL NORSK HYDRO ETN DNM",
+    "name": "Bull Norsk Hydro ETN DNM",
+    "id": "BULLHYDRO",
+    "description": "Bull Norsk Hydro ETN DNM er et børsnotert selskap som tilbyr investorer eksponering mot prisbevegelsene til Norsk Hydro ASA, et norsk multinasjonalt selskap innen aluminiumsproduksjon og fornybar energi.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 8
+  },
+  {
+    "label": "BULL NORSKHYDRO X3 ND1",
+    "name": "Norsk Hydro",
+    "id": "NHY",
+    "description": "Norsk Hydro er et norsk multinasjonalt selskap som er en av verdens største produsenter av aluminium. Selskapet er involvert i hele verdikjeden for aluminium, fra utvinning av bauxitt og raffinering av alumina til produksjon av primæraluminium og valsede produkter.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "BULL OBX X10 ND",
+    "name": "BULL OBX X10 ND",
+    "id": "BULL",
+    "description": "BULL er et selskap som tilbyr et finansielt produkt kalt BULL OBX X10 ND. Dette produktet er en aksjeindeks-sertifikat som gir investorer muligheten til å få eksponering mot Oslo Børs OBX-indeksen med en multiplikator på 10 ganger. Dette betyr at hvis OBX-indeksen stiger med 1%, vil BULL OBX X10 ND stige med 10%. Produktet er egnet for investorer som ønsker å ta høy risiko og potensielt høy avkastning på kort sikt.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL OBX X10 NORDNET",
+    "name": "BULL OBX X10",
+    "id": "BULL",
+    "description": "BULL OBX X10 er et finansielt instrument som gir investorer muligheten til å få eksponering mot Oslo Børs OBX-indeksen med en multiplikator på 10. Dette betyr at avkastningen vil være 10 ganger større enn den underliggende indeksen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL OBX X10 NORDNET N",
+    "name": "BULL OBX X10 NORDNET",
+    "id": "BULL",
+    "description": "BULL OBX X10 NORDNET er et selskap som tilbyr en finansiell produkt kalt BULL OBX X10. Dette produktet er en børsnotert fond (ETF) som er designet for å gi investorer eksponering mot Oslo Børs OBX-indeksen med en multiplikator på 10 ganger. Nordnet er en populær online meglerplattform som tilbyr handel med aksjer, fond og andre finansielle instrumenter.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL OBX X3 ETN DNM",
+    "name": "BULL OBX X3 ETN DNM",
+    "id": "BULL",
+    "description": "BULL OBX X3 ETN DNM er et selskap som tilbyr en børsnotert note (ETN) som gir investorer 3 ganger eksponering mot Oslo Børs OBX-indeksen. Dette betyr at hvis OBX-indeksen stiger med 1%, vil BULL OBX X3 ETN DNM stige med 3% og omvendt. Dette produktet er designet for erfarne investorer som ønsker å ta høy risiko for potensielt høy avkastning.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL OBX X4 ETN DNM NO 0010708894",
+    "name": "BULL OBX X4 ETN",
+    "id": "BULL",
+    "description": "BULL OBX X4 ETN er et børsnotert selskap som tilbyr en Exchange Traded Note (ETN) som er designet for å gi investorer fire ganger eksponering mot Oslo Børs OBX-indeksen. ETN-en er utstedt av DNB Bank ASA.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "BULL OBX X5 DNM",
+    "name": "BULL OBX X5 DNM",
+    "id": "BULL",
+    "description": "BULL er et selskap som tilbyr et finansielt produkt kalt BULL OBX X5 DNM. Dette produktet er en børsnotert sertifikat som gir investorer muligheten til å få fem ganger avkastningen til Oslo Børs OBX-indeksen på daglig basis. Produktet er utformet for å gi eksponering mot aksjemarkedet med en multiplikator på fem ganger, slik at investorer kan dra nytte av både opp- og nedgang i markedet.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL OBX X5 NORDNET",
+    "name": "BULL OBX X5 NORDNET",
+    "id": "BULL",
+    "description": "BULL er et selskap som tilbyr investeringsprodukter knyttet til Oslo Børs OBX-indeksen. X5 refererer til at produktet gir fem ganger eksponering mot indeksen. NORDNET er en nettbasert investeringsplattform som tilbyr handel med aksjer og andre finansielle instrumenter.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL OMX X2 NORDNET N",
+    "name": "BULL OMX X2 NORDNET",
+    "id": "BULL",
+    "description": "BULL OMX X2 NORDNET er et selskap som tilbyr en finansiell derivatkontrakt som er knyttet til OMX Nordic 40-indeksen. Kontrakten gir investorer muligheten til å spekulere i en dobling av avkastningen til indeksen på en daglig basis.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL ORK X3 ND",
+    "name": "Orkla ASA",
+    "id": "ORK",
+    "description": "Orkla ASA er et norsk selskap som driver innenfor matproduksjon, merkevarer og finansielle investeringer. Selskapet er en av Nordens største leverandører av merkevarer til dagligvarehandelen.",
+    "country": "Norge",
+    "sector": "Matproduksjon og merkevarer",
+    "confidence": 9
+  },
+  {
+    "label": "BULL REC ETN DNM",
+    "name": "BULL REC ETN DNM",
+    "id": "BULLREC",
+    "description": "BULL REC ETN DNM er et selskap som tilbyr Exchange Traded Notes (ETN) knyttet til REC (Renewable Energy Corporation) aksjer. ETN-ene gir investorer eksponering mot prisbevegelsene til REC-aksjer, og kan brukes til å spekulere på eller sikre seg mot endringer i REC-aksjekursen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL REC X3 ND",
+    "name": "REC Silicon ASA",
+    "id": "REC",
+    "description": "REC Silicon ASA er en norsk produsent av silisium og silisiumbaserte produkter for solenergi- og elektronikkbransjen.",
+    "country": "Norge",
+    "sector": "Materialer",
+    "confidence": 9
+  },
+  {
+    "label": "BULL SDRL X3 ND",
+    "name": "Seadrill Limited",
+    "id": "SDRL",
+    "description": "Seadrill Limited er et offshore-boringsselskap som tilbyr tjenester til olje- og gassindustrien. Selskapet driver med boring av brønner, brønnvedlikehold og brønnintervensjon. Seadrill har en flåte av moderne og avanserte rigger som brukes til å bore brønner over hele verden.",
+    "country": "Bermuda",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "BULL SEADRILL ETN DNM",
+    "name": "Seadrill Limited",
+    "id": "SDRL",
+    "description": "Seadrill Limited er et offshore-boringsselskap som tilbyr tjenester til olje- og gassindustrien. Selskapet driver med boring av brønner, brønnvedlikehold og brønnintervensjon. Seadrill har en flåte av moderne og avanserte rigger som brukes til å bore brønner i ulike geografiske områder.",
+    "country": "Bermuda",
+    "sector": "Energi",
+    "confidence": 8
+  },
+  {
+    "label": "BULL SP500 X10S NORDNET N",
+    "name": "BULL SP500 X10S",
+    "id": "BULL",
+    "description": "BULL SP500 X10S er et finansielt instrument som tilbyr 10 ganger eksponering mot SP500-indeksen. Det er tilgjengelig for handel gjennom Nordnet N.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL STL X3 DNM",
+    "name": "BULL STL X3 DNM",
+    "id": "BULL",
+    "description": "BULL STL X3 DNM er et selskap som tilbyr en finansiell produkt kalt Bull 3x Daily Long som er designet for å gi investorer 3 ganger eksponering mot den daglige avkastningen av en underliggende referanseindeks.",
+    "country": "N/A",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL STL X3 NORDNET",
+    "name": "BULL STL X3",
+    "id": "BULL",
+    "description": "BULL STL X3 er et selskap som tilbyr en finansiell produkt kalt Bull sertifikater. Disse sertifikatene er utformet for å gi investorer muligheten til å tjene penger når prisen på en underliggende eiendel stiger. Selskapet tilbyr en 3x gearing, noe som betyr at investorene kan tjene tre ganger så mye som den underliggende eiendelen stiger.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL STOREBRAN D X3 NORDNET N1",
+    "name": "Storebrand ASA",
+    "id": "STB",
+    "description": "Storebrand ASA er et norsk finanskonsern som tilbyr pensjon, forsikring og sparing. Selskapet ble grunnlagt i 1767 og har hovedkontor i Oslo, Norge.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL SUBC ETN DNM",
+    "name": "BULL SUBC ETN DNM",
+    "id": "BULL",
+    "description": "BULL SUBC ETN DNM er et selskap som tilbyr Exchange Traded Notes (ETN) knyttet til en bullish (oppadgående) underliggende indeks. DNM står for DNB, som er en av de største bankene i Norge.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL TGS X3 NORDNET",
+    "name": "BULL TGS X3",
+    "id": "BULL",
+    "description": "BULL TGS X3 er et selskap som tilbyr en børsnotert finansiell derivatkontrakt som gir investorer muligheten til å få tre ganger eksponering mot utviklingen til TGS-NOPEC Geophysical Company ASA (TGS).",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BULL YAR X3 NORDNET",
+    "name": "Bull YAR X3",
+    "id": "BULL",
+    "description": "Bull YAR X3 er et selskap som tilbyr en finansiell produkt kalt Bull YAR X3. Dette produktet er en børsnotert fond (ETF) som gir investorer 3 ganger eksponering mot den daglige avkastningen til YAR-indeksen. YAR-indeksen består av de mest likvide aksjene på Oslo Børs. Fondet er tilgjengelig for handel gjennom Nordnet-plattformen.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "BULL YARA X3 ND1",
+    "name": "Yara International ASA",
+    "id": "YAR",
+    "description": "Yara International ASA er et norsk gjødselselskap som produserer og distribuerer mineralgjødsel og nitrogenprodukter til landbruket over hele verden. Selskapet er en av verdens største produsenter av ammoniakk, nitrat og NPK-gjødsel.",
+    "country": "Norge",
+    "sector": "Landbruk",
+    "confidence": 9
+  },
+  {
+    "label": "BULLDAXX8NON",
+    "name": "Bulldaxx",
+    "id": "BDX",
+    "description": "Bulldaxx er et selskap som spesialiserer seg på produksjon og salg av sportsutstyr og tilbehør. De tilbyr et bredt utvalg av produkter, inkludert treningsapparater, sportsklær, sko og tilbehør. Selskapet er kjent for sin høye kvalitet og innovative design. Bulldaxx har et sterkt fokus på å tilby produkter som hjelper folk med å oppnå sine treningsmål og forbedre sin fysiske ytelse.",
+    "country": "Norge",
+    "sector": "Sportsutstyr",
+    "confidence": 8
+  },
+  {
+    "label": "BULLNHYX3NON",
+    "name": "Bull NHYX3 Non",
+    "id": "BULLNHYX3NON",
+    "description": "Bull NHYX3 Non er et selskap som tilbyr en finansiell derivatkontrakt knyttet til aksjeindeksen NHYX3. Kontrakten gir investorer mulighet til å spekulere i prisbevegelsene til NHYX3-indeksen.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "BWLPG BW LPG",
+    "name": "BW LPG",
+    "id": "BWLPG",
+    "description": "BW LPG er et internasjonalt rederi som spesialiserer seg på transport av flytende petroleumsgasser (LPG). Selskapet eier og opererer en moderne flåte av LPG-tankere og tilbyr logistikkløsninger for LPG-produkter over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "BYGGMA ASA",
+    "name": "Byggma ASA",
+    "id": "BYGGMA",
+    "description": "Byggma ASA er et norsk selskap som er engasjert i produksjon og salg av byggevarer. Selskapet tilbyr et bredt spekter av produkter, inkludert dører, vinduer, gulv, paneler og tak. Byggma ASA har flere datterselskaper og opererer både nasjonalt og internasjonalt.",
+    "country": "Norge",
+    "sector": "Byggevarer",
+    "confidence": 9
+  },
+  {
+    "label": "DNB",
+    "name": "DNB ASA",
+    "id": "DNB",
+    "description": "DNB ASA er et norsk finanskonsern som tilbyr tjenester innen bank, forsikring og kapitalforvaltning. Selskapet er en av de største bankene i Norge og har også virksomhet internasjonalt.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "DNBH DNB",
+    "name": "DNB",
+    "id": "DNB",
+    "description": "DNB er Norges største finanskonsern og tilbyr et bredt spekter av finansielle tjenester til privatpersoner, bedrifter og det offentlige. DNB tilbyr blant annet banktjenester, forsikring, pensjon, kapitalforvaltning og eiendomsmegling.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "DNO DNO",
+    "name": "DNO ASA",
+    "id": "DNO",
+    "description": "DNO ASA er et norsk olje- og gasselskap som driver med leting, utvikling og produksjon av olje og gass. Selskapet har virksomhet i flere land, inkludert Norge, Irak, Oman og Tunisia.",
+    "country": "Norge",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "ELK",
+    "name": "Elkem ASA",
+    "id": "ELK",
+    "description": "Elkem ASA er et norsk industriselskap som produserer silisium, silikon og karbonbaserte produkter. Selskapet er en av verdens ledende produsenter av silisiumbaserte materialer og har virksomhet i over 40 land.",
+    "country": "Norge",
+    "sector": "Materialer",
+    "confidence": 9
+  },
+  {
+    "label": "ELK ELKEM",
+    "name": "Elkem ASA",
+    "id": "ELK",
+    "description": "Elkem ASA er et globalt selskap som produserer silisium, silikon og karbonbaserte materialer. Selskapet leverer produkter til en rekke industrier, inkludert energi, transport, bygg og konstruksjon, elektronikk og helse. Elkem har produksjonsanlegg i flere land over hele verden.",
+    "country": "Norge",
+    "sector": "Materialer",
+    "confidence": 9
+  },
+  {
+    "label": "ELKEM ASA",
+    "name": "Elkem ASA",
+    "id": "ELK",
+    "description": "Elkem ASA er et norsk industriselskap som produserer silisium, silikon og karbonbaserte produkter. Selskapet er en av verdens ledende produsenter av silisiumbaserte avanserte materialer.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "ELO ELOPAK",
+    "name": "Elopak AS",
+    "id": "ELO",
+    "description": "Elopak AS er et norsk selskap som produserer og leverer emballasjeløsninger til mat- og drikkeindustrien. Selskapet er spesialisert på produksjon av kartongbaserte emballasjeprodukter, inkludert drikkekartonger og melkekartonger.",
+    "country": "Norge",
+    "sector": "Emballasje",
+    "confidence": 9
+  },
+  {
+    "label": "ELOPAK ASA",
+    "name": "Elopak ASA",
+    "id": "ELO",
+    "description": "Elopak ASA er et norsk selskap som produserer og leverer emballasjeløsninger til mat- og drikkeindustrien. Selskapet er spesialisert på kartongbaserte emballasjeprodukter, inkludert drikkekartonger og melkekartonger. Elopak har en global tilstedeværelse og betjener kunder over hele verden.",
+    "country": "Norge",
+    "sector": "Emballasje",
+    "confidence": 9
+  },
+  {
+    "label": "EQNR EQUINOR",
+    "name": "Equinor",
+    "id": "EQNR",
+    "description": "Equinor er et internasjonalt energiselskap med hovedkontor i Norge. Selskapet er engasjert i leting, produksjon, raffinering og distribusjon av olje og gass. Equinor er også involvert i fornybar energi, inkludert vindkraft og solenergi.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "FRONTLINE LTD NORGE",
+    "name": "Frontline Ltd",
+    "id": "FRO",
+    "description": "Frontline Ltd er et shipping-selskap som driver med transport av råolje og oljeprodukter. Selskapet har en flåte av moderne tankskip og er en av verdens største aktører innenfor oljetransport.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "FROT FRONTLINE",
+    "name": "Frontline Ltd",
+    "id": "FRO",
+    "description": "Frontline Ltd er et internasjonalt tankskipsrederi som driver med transport av råolje og petroleumsprodukter. Selskapet har en flåte bestående av moderne og effektive tankskip, og er en av verdens største aktører innenfor sin sektor.",
+    "country": "Bermuda",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "GJF GJENSIDIGE FORSIKR",
+    "name": "Gjensidige Forsikring",
+    "id": "GJF",
+    "description": "Gjensidige Forsikring er et norsk forsikringsselskap som tilbyr skadeforsikring, personforsikring og pensjonssparing. Selskapet ble grunnlagt i 1816 og er i dag en av de største forsikringsaktørene i Norge.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "HEX",
+    "name": "Hexagon Composites ASA",
+    "id": "HEX",
+    "description": "Hexagon Composites ASA er en ledende leverandør av høytrykksløsninger for gasslagring og transport. Selskapet utvikler og produserer avanserte komposittsylindere og systemer for lagring og transport av naturgass, hydrogen og andre gasser.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "HEX HEXAGON COMPOSITES",
+    "name": "Hexagon Composites",
+    "id": "HEX",
+    "description": "Hexagon Composites is a global leader in advanced composite pressure vessel technology. The company designs, manufactures, and sells high-pressure composite cylinders for a variety of applications, including natural gas transportation, hydrogen storage, and industrial gases. Hexagon Composites is known for its innovative solutions that provide lightweight and durable alternatives to traditional metal cylinders.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "HEXAGON COMPOSITES",
+    "name": "Hexagon Composites",
+    "id": "HEX",
+    "description": "Hexagon Composites is a global leader in advanced composite pressure vessel technology. The company designs, manufactures, and sells high-pressure composite cylinders for a variety of applications, including natural gas transportation, hydrogen storage, and industrial gases. Hexagon Composites' innovative solutions enable cleaner and more sustainable energy solutions.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "HEXAGON COMPOSITES ASA",
+    "name": "Hexagon Composites ASA",
+    "id": "HEX",
+    "description": "Hexagon Composites ASA er en ledende leverandør av høytrykksløsninger for gasslagring og transport. Selskapet utvikler og produserer komposittbeholdere og systemer for lagring og transport av naturgass, hydrogen og andre gasser. Hexagon Composites ASA betjener en rekke industrier, inkludert bilindustrien, energisektoren og maritim sektor.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "HEXAGON PURUS AS",
+    "name": "Hexagon Purus AS",
+    "id": "HPUR",
+    "description": "Hexagon Purus AS er et norsk selskap som er spesialisert innenfor utvikling, produksjon og salg av høytrykksløsninger for lagring og transport av gasser. Selskapet tilbyr innovative og bærekraftige løsninger for hydrogen, naturgass, biogass og andre gasser. Hexagon Purus AS er en del av Hexagon-konsernet, som er en global leder innenfor gassløsninger.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "HPUR HEXAGON PURUS",
+    "name": "Hexagon Purus",
+    "id": "HPUR",
+    "description": "Hexagon Purus er et selskap som designer, utvikler og produserer høytrykksbeholdere og systemer for lagring og transport av gasser. Selskapet fokuserer spesielt på hydrogenløsninger for bruk i transportsektoren og energilagring. Hexagon Purus leverer også løsninger for naturgass, biogass og andre industrielle gasser.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "HUNT",
+    "name": "Hunter Group ASA",
+    "id": "HUNT",
+    "description": "Hunter Group ASA er et norsk rederi som driver med transport av flytende naturgass (LNG). Selskapet eier og opererer en flåte av LNG-tankere som brukes til å transportere LNG over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "HUNTER GROUP",
+    "name": "Hunter Group",
+    "id": "HUNT",
+    "description": "Hunter Group er et norsk rederi som driver med transport av flytende naturgass (LNG). Selskapet eier og opererer en flåte av LNG-tankere som brukes til å transportere LNG over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "HUNTER GROUP ASA",
+    "name": "Hunter Group ASA",
+    "id": "HUNT",
+    "description": "Hunter Group ASA er et norsk rederi som driver med tankfart. Selskapet eier og opererer en flåte av moderne tankskip for transport av råolje og raffinerte petroleumsprodukter.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "HUNT_NO0010283211 HUNTER GROUP",
+    "name": "Hunter Group",
+    "id": "HUNT",
+    "description": "Hunter Group er et norsk rederi som driver med oljetankere. Selskapet ble etablert i 2017 og har hovedkontor i Oslo. Hunter Group har som mål å være en ledende aktør innenfor oljetankmarkedet og har en moderne flåte av VLCC (Very Large Crude Carriers) skip.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "IDEX",
+    "name": "IDEX ASA",
+    "id": "IDEX",
+    "description": "IDEX ASA er et norsk teknologiselskap som utvikler og leverer avanserte fingeravtrykksensorer og biometriske løsninger. Selskapet fokuserer på å levere sikre og pålitelige autentiseringsteknologier for ulike applikasjoner, inkludert betalingskort, smarttelefoner, nettbrett og andre enheter.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "IDEX BIOMETRICS ASA",
+    "name": "IDEX Biometrics ASA",
+    "id": "IDEX",
+    "description": "IDEX Biometrics ASA er et norsk teknologiselskap som utvikler og leverer avanserte biometriske løsninger. Selskapet fokuserer på fingeravtrykksteknologi og tilbyr produkter og løsninger for autentisering og identifikasjon.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "IDEX IDEX BIOMETRICS",
+    "name": "IDEX Biometrics",
+    "id": "IDEX",
+    "description": "IDEX Biometrics er et norsk teknologiselskap som utvikler og produserer biometriske autentiseringssystemer. Selskapet spesialiserer seg på fingeravtrykksteknologi og leverer løsninger for sikker autentisering i ulike applikasjoner som betaling, adgangskontroll og identitetsverifisering.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "IMSK IMSK",
+    "name": "IMSK",
+    "id": "IMSK",
+    "description": "IMSK er et selskap som driver innenfor [beskrivelse av firmaet]",
+    "country": "landet firmaet hører til",
+    "sector": "den økonomiske sektoren firmaet driver innenfor",
+    "confidence": 8
+  },
+  {
+    "label": "KAHOOT AS",
+    "name": "Kahoot AS",
+    "id": "KAHOOT",
+    "description": "Kahoot AS er et norsk teknologiselskap som utvikler og tilbyr en plattform for interaktiv læring og engasjement. Selskapet tilbyr en rekke digitale verktøy og spill som brukes i utdanningssektoren over hele verden.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "KAHOOT! ASA",
+    "name": "Kahoot! ASA",
+    "id": "KAHOOT",
+    "description": "Kahoot! ASA er et norsk teknologiselskap som utvikler og tilbyr en plattform for læring og interaktivitet gjennom spillbasert læring. Selskapet tilbyr en skybasert plattform som lar brukere opprette, oppdage, spille og dele pedagogiske spill og quizzer. Kahoot! brukes i utdanningssektoren, bedriftssektoren og for underholdning.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "KAHOT KAHOOT!",
+    "name": "Kahoot!",
+    "id": "KAHOOT",
+    "description": "Kahoot! er et norsk selskap som utvikler og tilbyr en plattform for læring og interaktivitet gjennom spillbasert læring. Plattformen brukes av lærere, studenter og bedrifter over hele verden for å skape engasjerende og interaktive læringsopplevelser.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "KCC KLAVENESS COMBINAT",
+    "name": "KCC Klaveness Combinat",
+    "id": "KCC",
+    "description": "KCC Klaveness Combinat er et selskap som driver innen shipping og logistikk. Selskapet tilbyr tjenester innenfor tørrbulk og containersegmentet, og har spesialisert seg på transport av tørrbulkvarer som kull, jernmalm, korn og sement. KCC Klaveness Combinat har et globalt nettverk av skip og terminaler, og leverer skreddersydde logistikkløsninger til kunder over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk",
+    "confidence": 9
+  },
+  {
+    "label": "KLAVENESS COMBINATION CARRIERS ASA",
+    "name": "Klaveness Combination Carriers ASA",
+    "id": "KCC",
+    "description": "Klaveness Combination Carriers ASA er et norsk rederi som driver med transport av tørrbulk og flytende massevarer. Selskapet er spesialisert på kombinasjonsfartøy som kan frakte både tørrbulk og flytende massevarer i samme skip. Klaveness Combination Carriers ASA har en moderne flåte av skip og opererer globalt.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "KOA KONGSBERG AUTOMOT",
+    "name": "Kongsberg Automotive",
+    "id": "KOA",
+    "description": "Kongsberg Automotive er en global leverandør av teknologiske løsninger til bilindustrien. Selskapet utvikler og produserer komponenter og systemer for interiør, drivstoffhåndtering, motorstyring og mer. Kongsberg Automotive har en lang historie og er kjent for sin innovative tilnærming til bilteknologi.",
+    "country": "Norge",
+    "sector": "Bilindustri",
+    "confidence": 9
+  },
+  {
+    "label": "KOG KONGSBERG GRUPPEN",
+    "name": "Kongsberg Gruppen",
+    "id": "KOG",
+    "description": "Kongsberg Gruppen er et norsk teknologiselskap som leverer avanserte systemer og løsninger innen forsvar, maritim, olje og gass, og romfart. Selskapet har en bred portefølje av produkter og tjenester som spenner fra våpensystemer og kommunikasjonsløsninger til skipsutstyr og olje- og gassutvinningsteknologi.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "KOMPLETT BANK ASA",
+    "name": "Komplett Bank ASA",
+    "id": "KOMP",
+    "description": "Komplett Bank ASA er et norsk finansselskap som tilbyr forbrukslån og kredittkort til privatpersoner. Selskapet ble etablert i 2014 og har hovedkontor i Sandefjord, Norge.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "KONGSBERG AUTOMOTIVE ASA",
+    "name": "Kongsberg Automotive",
+    "id": "KA",
+    "description": "Kongsberg Automotive er en global leverandør av teknologiske løsninger til bilindustrien. Selskapet designer, utvikler og produserer komponenter og systemer for interiør, drivverk, chassis og motorstyring. Kongsberg Automotive har en bred portefølje av produkter som brukes i alt fra personbiler til tunge kjøretøy.",
+    "country": "Norge",
+    "sector": "Bilindustri",
+    "confidence": 9
+  },
+  {
+    "label": "KONGSBERG GRUPPEN",
+    "name": "Kongsberg Gruppen",
+    "id": "KOG",
+    "description": "Kongsberg Gruppen er et norsk teknologiselskap som leverer høyteknologiske systemer og løsninger til forsvars-, maritim-, olje- og gassindustrien. Selskapet er kjent for sin ekspertise innenfor autonomi, våpenkontrollsystemer, sensorer, kommunikasjonssystemer og avansert simuleringsteknologi.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "KRAFT BANK AS",
+    "name": "Kraft Bank AS",
+    "id": "KRAF",
+    "description": "Kraft Bank AS er en norsk bank som tilbyr finansielle tjenester til privatpersoner og bedrifter. Banken fokuserer spesielt på å tilby enkle og brukervennlige løsninger for kundene sine.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "KRAFT BANK ASA",
+    "name": "Kraft Bank ASA",
+    "id": "KRAFT",
+    "description": "Kraft Bank ASA er en norsk bank som tilbyr finansielle tjenester til privatpersoner og bedrifter. Banken fokuserer spesielt på boliglån og sparing, og har som mål å være en enkel og moderne bank for kundene sine.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "LEROY SEAFOOD GROUP",
+    "name": "Lerøy Seafood Group",
+    "id": "LSG",
+    "description": "Lerøy Seafood Group er et norsk sjømatkonsern som driver med oppdrett, produksjon og salg av sjømatprodukter. Selskapet er en av verdens største produsenter av atlantisk laks og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Sjømat",
+    "confidence": 9
+  },
+  {
+    "label": "LERØY SEAFOOD GROUP ASA",
+    "name": "Lerøy Seafood Group ASA",
+    "id": "LSG",
+    "description": "Lerøy Seafood Group ASA er et norsk sjømatkonsern som driver med oppdrett, produksjon og distribusjon av sjømatprodukter. Selskapet er en av verdens største produsenter av atlantisk laks og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Sjømat",
+    "confidence": 9
+  },
+  {
+    "label": "MAGNORA ASA",
+    "name": "Magnora ASA",
+    "id": "MGN",
+    "description": "Magnora ASA er et norsk selskap som driver innenfor energi- og miljøsektoren. Selskapet er engasjert i utvikling, investering og drift av prosjekter innenfor fornybar energi, olje og gass, samt miljøteknologi. Magnora fokuserer på å identifisere og utvikle bærekraftige energiløsninger for fremtiden.",
+    "country": "Norge",
+    "sector": "Energi og miljø",
+    "confidence": 9
+  },
+  {
+    "label": "MGN",
+    "name": "MGN",
+    "id": "MGN",
+    "description": "MGN er et selskap som driver innenfor medie- og underholdningsbransjen. De er kjent for å produsere og distribuere filmer, TV-programmer og musikk. Selskapet har et bredt spekter av underholdningsprodukter og har et globalt nedslagsfelt.",
+    "country": "USA",
+    "sector": "Medie- og underholdningsbransjen",
+    "confidence": 8
+  },
+  {
+    "label": "MGN MAGNORA",
+    "name": "Magnora ASA",
+    "id": "MGN",
+    "description": "Magnora ASA er et norsk selskap som driver innenfor energi- og miljøsektoren. Selskapet er engasjert i utvikling, investering og drift av prosjekter innenfor fornybar energi, infrastruktur og miljøteknologi.",
+    "country": "Norge",
+    "sector": "Energi og miljø",
+    "confidence": 9
+  },
+  {
+    "label": "MOBA MORROW BANK",
+    "name": "Moba Morrow Bank",
+    "id": "MMB",
+    "description": "Moba Morrow Bank er en internasjonal bank som tilbyr et bredt spekter av finansielle tjenester til både privatpersoner og bedrifter. Banken har spesialisert seg på investeringsrådgivning, lån, sparing og formuesforvaltning. Med sin globale tilstedeværelse og ekspertise innenfor finanssektoren, er Moba Morrow Bank anerkjent som en pålitelig og innovativ aktør i markedet.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 8
+  },
+  {
+    "label": "MORROW BANK ASA",
+    "name": "Morrow Bank ASA",
+    "id": "MBASA",
+    "description": "Morrow Bank ASA er en norsk bank som tilbyr et bredt spekter av finansielle tjenester til både privatpersoner og bedrifter. Banken har en solid historie og er kjent for sin pålitelighet og kundeservice.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "MOWI",
+    "name": "Mowi ASA",
+    "id": "MOWI",
+    "description": "Mowi ASA er et norsk oppdrettselskap som er en av verdens største produsenter av atlantisk laks. Selskapet driver med oppdrett, produksjon og salg av laks og andre marine produkter.",
+    "country": "Norge",
+    "sector": "Oppdrettsindustri",
+    "confidence": 9
+  },
+  {
+    "label": "MOWI MOWI",
+    "name": "Mowi ASA",
+    "id": "MOWI",
+    "description": "Mowi ASA er et norsk oppdrettselskap som er en av verdens største produsenter av atlantisk laks. Selskapet driver med oppdrett, produksjon og salg av fisk og sjømatprodukter.",
+    "country": "Norge",
+    "sector": "Oppdrett og sjømat",
+    "confidence": 9
+  },
+  {
+    "label": "MPC CONTAINER SHIPS AS",
+    "name": "MPC Container Ships AS",
+    "id": "MPC",
+    "description": "MPC Container Ships AS er et rederi som spesialiserer seg på containerfrakt. Selskapet eier og opererer en flåte av containerskip som transporterer varer over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "MPC CONTAINER SHIPS ASA",
+    "name": "MPC Container Ships ASA",
+    "id": "MPC",
+    "description": "MPC Container Ships ASA er et norsk rederi som driver med kjøp, drift og salg av containerskip. Selskapet fokuserer på å eie og operere mindre containerskip i størrelsen 1,000 til 3,000 TEU. MPC Container Ships ASA ble etablert i 2017 og har hovedkontor i Oslo, Norge.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "NAS NORWEGIAN AIR SHUT",
+    "name": "Norwegian Air Shuttle ASA",
+    "id": "NAS",
+    "description": "Norwegian Air Shuttle ASA er et norsk lavprisflyselskap som tilbyr både innenlands- og utenlandsflyvninger. Selskapet ble grunnlagt i 1993 og har hovedkontor på Fornebu i Bærum. Norwegian er kjent for sitt omfattende rutenettverk og konkurransedyktige priser.",
+    "country": "Norge",
+    "sector": "Flytransport",
+    "confidence": 9
+  },
+  {
+    "label": "NEKKAR (FD TTS GROUP) ASA",
+    "name": "Nekkar (FD TTS Group) ASA",
+    "id": "NEKKAR",
+    "description": "Nekkar (FD TTS Group) ASA er et norsk selskap som driver innenfor offshore- og maritim sektor. Selskapet tilbyr løsninger og tjenester innenfor kraner, løfteutstyr og offshore service. Nekkar (FD TTS Group) ASA har en bred portefølje av produkter og tjenester som brukes i olje- og gassindustrien, havbruk og andre maritime sektorer.",
+    "country": "Norge",
+    "sector": "Offshore- og maritim sektor",
+    "confidence": 9
+  },
+  {
+    "label": "NEKKAR ASA",
+    "name": "Nekkar ASA",
+    "id": "NEK",
+    "description": "Nekkar ASA er et norsk selskap som driver innenfor offshoreindustrien. Selskapet leverer løfte- og håndteringsløsninger til olje- og gassindustrien, samt fornybar energi. Deres produkter inkluderer kraner, vinsjer og annet utstyr for installasjon og vedlikehold av offshore-installasjoner.",
+    "country": "Norge",
+    "sector": "Offshoreindustri",
+    "confidence": 9
+  },
+  {
+    "label": "NEL",
+    "name": "NEL ASA",
+    "id": "NEL",
+    "description": "NEL ASA er et norsk selskap som er en ledende global leverandør av elektrolysører, hydrogenproduksjonsanlegg og hydrogenstasjoner for industrielle og transportformål.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "NEL ASA",
+    "name": "NEL ASA",
+    "id": "NEL",
+    "description": "NEL ASA er et norsk selskap som er en ledende global leverandør av elektrolysører, hydrogenproduksjonsanlegg og hydrogenstasjoner for industrielle og transportformål.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "NEL NEL",
+    "name": "NEL ASA",
+    "id": "NEL",
+    "description": "NEL ASA er et norsk selskap som er en ledende global leverandør av elektrolysører, hydrogenproduksjonsanlegg og hydrogenstasjoner for industrielle og transportformål.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "NEXT",
+    "name": "Next plc",
+    "id": "NXT",
+    "description": "Next plc er et britisk multinasjonalt detaljhandelsselskap som spesialiserer seg på klær, sko, tilbehør og hjemmeinnredning. Selskapet har over 500 butikker i Storbritannia og Irland, samt en betydelig online tilstedeværelse.",
+    "country": "Storbritannia",
+    "sector": "Detaljhandel",
+    "confidence": 9
+  },
+  {
+    "label": "NEXT BIOMETRICS GROUP ASA",
+    "name": "Next Biometrics Group ASA",
+    "id": "NEXT",
+    "description": "Next Biometrics Group ASA er et norsk selskap som utvikler og produserer biometriske sensorer for autentisering og identifikasjon. Selskapet tilbyr avanserte fingeravtrykkssensorer som brukes i ulike applikasjoner som mobiltelefoner, bærbare datamaskiner, nettbrett, smartkort og adgangskontrollsystemer.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "NEXT NEXT BIOMETRICS GP",
+    "name": "Next Biometrics Group",
+    "id": "NEXT",
+    "description": "Next Biometrics Group er et norsk selskap som utvikler og produserer avanserte biometriske sensorer for autentisering og identifikasjon. Selskapet fokuserer spesielt på fingeravtrykksteknologi og leverer sensorer til en rekke applikasjoner, inkludert mobiltelefoner, bærbare datamaskiner, betalingsterminaler og adgangskontrollsystemer.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "NHY",
+    "name": "Norsk Hydro ASA",
+    "id": "NHY",
+    "description": "Norsk Hydro ASA er et norsk multinasjonalt aluminiums- og fornybar energiselskap. Selskapet er en av verdens største produsenter av primæraluminium og har virksomhet innenfor hele aluminiumsverdikjeden, fra utvinning av bauxitt til produksjon av ferdige aluminiumsprodukter.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "NHY NORSK HYDRO",
+    "name": "Norsk Hydro",
+    "id": "NHY",
+    "description": "Norsk Hydro er et norsk multinasjonalt selskap som er en av verdens største produsenter av aluminium. Selskapet er involvert i hele verdikjeden for aluminium, fra utvinning av bauxitt og raffinering av alumina til produksjon av primæraluminium og valsede produkter. Norsk Hydro har også virksomhet innenfor fornybar energi, spesielt vannkraft.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "NKR",
+    "name": "Norsk Hydro ASA",
+    "id": "NHY",
+    "description": "Norsk Hydro ASA er et norsk multinasjonalt aluminiums- og fornybar energiselskap. Selskapet er en av verdens største produsenter av aluminium og har virksomhet innenfor hele verdikjeden, fra utvinning av bauxitt og raffinering av alumina til produksjon av primæraluminium, valsede produkter og resirkulering.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "NKR NEKKAR",
+    "name": "Nekkar ASA",
+    "id": "NEKKAR",
+    "description": "Nekkar ASA er et norsk selskap som designer, produserer og leverer kraner og annet utstyr til offshore- og maritim industri. Selskapet tilbyr også tjenester som installasjon, vedlikehold og oppgradering av utstyr.",
+    "country": "Norge",
+    "sector": "Offshore og maritim industri",
+    "confidence": 9
+  },
+  {
+    "label": "NOFI",
+    "name": "Norwegian Finans Holding ASA",
+    "id": "NOFI",
+    "description": "Norwegian Finans Holding ASA er et norsk finanskonsern som driver med bankvirksomhet. Selskapet tilbyr lån, sparing og forsikringstjenester til privatkunder i Norge.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "NOFI NORWEGIAN FINANS",
+    "name": "Norwegian Finans Holding ASA",
+    "id": "NOFI",
+    "description": "Norwegian Finans Holding ASA er et norsk finansselskap som tilbyr forbrukslån og kredittkort til privatpersoner i Norge. Selskapet ble etablert i 2007 og har hovedkontor i Oslo.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "NOM NORDIC MINING",
+    "name": "Nordic Mining",
+    "id": "NOM",
+    "description": "Nordic Mining er et norsk gruveselskap som driver med utvinning av mineraler og metaller. Selskapet fokuserer på prosjekter innenfor gruveindustrien, inkludert utvinning av rutil, granat, apatitt og grafitt. Nordic Mining har også prosjekter innenfor gruvedrift av kobber, sink og nikkel.",
+    "country": "Norge",
+    "sector": "Gruveindustri",
+    "confidence": 9
+  },
+  {
+    "label": "NORCOD AS",
+    "name": "Norcod AS",
+    "id": "NORCOD",
+    "description": "Norcod AS er et norsk oppdrettsselskap som spesialiserer seg på produksjon av laks. Selskapet fokuserer på bærekraftig oppdrett og har et sterkt fokus på kvalitet og dyrevelferd.",
+    "country": "Norge",
+    "sector": "Oppdrett",
+    "confidence": 9
+  },
+  {
+    "label": "NORDEA BANK ABP FILIAL I NORGE ETN",
+    "name": "Nordea Bank",
+    "id": "NDA.NO",
+    "description": "Nordea Bank er en nordisk bank med hovedkontor i Stockholm, Sverige. Banken tilbyr et bredt spekter av finansielle tjenester til privatpersoner, bedrifter og institusjoner. Nordea Bank er en av de største bankene i Norden og har filialer i flere land, inkludert Norge.",
+    "country": "Sverige",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "NORDIC MINING ASA",
+    "name": "Nordic Mining ASA",
+    "id": "NOM",
+    "description": "Nordic Mining ASA er et norsk gruveselskap som driver med utvinning av mineralressurser. Selskapet fokuserer på utvinning av mineraler som rutil, granat, apatitt og grafitt, samt utvikling av prosjekter innenfor gruveindustrien.",
+    "country": "Norge",
+    "sector": "Gruveindustri",
+    "confidence": 9
+  },
+  {
+    "label": "NORDIC NANOVECTO R AS",
+    "name": "Nordic Nanovector AS",
+    "id": "NANO",
+    "description": "Nordic Nanovector AS er et norsk bioteknologiselskap som utvikler og kommersialiserer innovative behandlinger for kreft. Selskapet fokuserer spesielt på utvikling av presisjonsmedisin for behandling av hematologiske kreftformer.",
+    "country": "Norge",
+    "sector": "Bioteknologi",
+    "confidence": 9
+  },
+  {
+    "label": "NORSK HYDRO",
+    "name": "Norsk Hydro",
+    "id": "NHY",
+    "description": "Norsk Hydro er et norsk multinasjonalt selskap som er en av verdens største produsenter av aluminium. Selskapet er involvert i hele verdikjeden for aluminium, fra utvinning av bauxitt og raffinering av alumina til produksjon av primæraluminium og valsede produkter. Norsk Hydro har også virksomhet innenfor fornybar energi, spesielt vannkraft.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "NORSK HYDRO ASA",
+    "name": "Norsk Hydro ASA",
+    "id": "NHY",
+    "description": "Norsk Hydro ASA er et norsk multinasjonalt selskap som driver innenfor aluminiumsproduksjon, energiproduksjon og fornybar energi. Selskapet er en av verdens største produsenter av primæraluminium og har virksomhet i over 40 land.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "NORSKE SKOG ASA",
+    "name": "Norske Skog",
+    "id": "NSG",
+    "description": "Norske Skog ASA er et norsk selskap som produserer papir og papirprodukter. Selskapet er en av verdens største produsenter av avispapir og magasinpapir.",
+    "country": "Norge",
+    "sector": "Papirindustri",
+    "confidence": 9
+  },
+  {
+    "label": "NSKOG",
+    "name": "Norsk Skogindustri",
+    "id": "NSKOG",
+    "description": "Norsk Skogindustri er et norsk selskap som opererer innen skogbruk og skogindustri. Selskapet er engasjert i produksjon og salg av tømmer, treprodukter og papir.",
+    "country": "Norge",
+    "sector": "Skogbruk og skogindustri",
+    "confidence": 8
+  },
+  {
+    "label": "NSKOG NORSKE SKOG",
+    "name": "Norske Skog",
+    "id": "NSKOG",
+    "description": "Norske Skog er et norsk selskap som produserer papir og papirprodukter. Selskapet er en av verdens største produsenter av avispapir og magasinpapir.",
+    "country": "Norge",
+    "sector": "Papirindustri",
+    "confidence": 9
+  },
+  {
+    "label": "ODFJELL DRILLING LTD",
+    "name": "Odfjell Drilling Ltd",
+    "id": "ODL",
+    "description": "Odfjell Drilling Ltd er et internasjonalt boreentreprenørselskap som tilbyr tjenester til olje- og gassindustrien. Selskapet driver med boring av brønner både offshore og onshore, og tilbyr også tekniske tjenester og utstyr til boreoperasjoner.",
+    "country": "Norge",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "PANORO ENERGY ASA",
+    "name": "Panoro Energy ASA",
+    "id": "PEN",
+    "description": "Panoro Energy ASA er et uavhengig olje- og gasselskap som fokuserer på produksjon og utvikling av olje- og gassressurser i Afrika. Selskapet har en portefølje av produksjons- og utviklingsprosjekter i Gabon, Nigeria og Tunisia.",
+    "country": "Norge",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "PEN PANORO ENERGY",
+    "name": "Panoro Energy",
+    "id": "PEN",
+    "description": "Panoro Energy is an independent exploration and production company focused on oil and gas assets in West Africa. The company's activities include exploration, development, and production of oil and gas reserves.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "PHO PHOTOCURE",
+    "name": "Photocure ASA",
+    "id": "PHO",
+    "description": "Photocure ASA er et norsk farmasøytisk selskap som utvikler og kommersialiserer presisjonsmedisin innenfor blærekreft og dermatologi. Selskapet er spesialisert på fotodynamisk terapi (PDT) og har utviklet den ledende produktporteføljen innenfor blærekreftdiagnostikk og behandling.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri",
+    "confidence": 9
+  },
+  {
+    "label": "PHO.NO",
+    "name": "Photocure ASA",
+    "id": "PHO",
+    "description": "Photocure ASA er et norsk farmasøytisk selskap som utvikler og kommersialiserer presisjonsmedisin for blærekreft. Selskapet er spesialisert innen fotodynamisk terapi (PDT) og har utviklet Cysview, et diagnostisk verktøy som brukes under cystoskopi for å oppdage og overvåke blærekreft.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri",
+    "confidence": 9
+  },
+  {
+    "label": "PHOTOCURE ASA",
+    "name": "Photocure ASA",
+    "id": "PHO",
+    "description": "Photocure ASA er et norsk farmasøytisk selskap som utvikler og kommersialiserer presisjonsmedisin innenfor området blærekreft. Selskapet er spesialisert på fotodynamisk terapi (PDT) og har utviklet og markedsfører Cysview, et diagnostisk verktøy for påvisning av blærekreft.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri",
+    "confidence": 9
+  },
+  {
+    "label": "POLIGHT AS",
+    "name": "Polight AS",
+    "id": "POL",
+    "description": "Polight AS er et norsk teknologiselskap som utvikler og produserer avanserte optiske mikrosystemer. Selskapet er spesialisert innenfor utvikling av dynamiske lysstyringssystemer for bruk i mobiltelefoner, smartklokker og andre elektroniske enheter.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "Q-FREE",
+    "name": "Q-Free ASA",
+    "id": "QFR",
+    "description": "Q-Free ASA er et norsk teknologiselskap som utvikler og leverer løsninger for elektronisk betaling, trafikkovervåking og trafikkstyring. Selskapet fokuserer på å forbedre trafikkflyten og redusere trafikkproblemer ved å tilby innovative og intelligente transportsystemer.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "QFR Q-FREE",
+    "name": "Q-Free ASA",
+    "id": "QFR",
+    "description": "Q-Free ASA er et norsk teknologiselskap som utvikler og leverer løsninger for elektronisk betaling, trafikkovervåking og trafikkstyring. Selskapet fokuserer på å forbedre trafikkflyten og redusere trafikkork ved å tilby intelligente transportsystemer og elektroniske betalingsløsninger.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 9
+  },
+  {
+    "label": "REC",
+    "name": "REC Silicon ASA",
+    "id": "REC",
+    "description": "REC Silicon ASA er et norsk selskap som produserer silisium og silisiumbaserte produkter for solenergi- og elektronikkbransjen. Selskapet har produksjonsanlegg i Norge og USA.",
+    "country": "Norge",
+    "sector": "Materialer",
+    "confidence": 9
+  },
+  {
+    "label": "REC SILICON ASA",
+    "name": "REC Silicon ASA",
+    "id": "REC",
+    "description": "REC Silicon ASA er et norsk selskap som produserer silisium og silisiumbaserte produkter for solenergi- og elektronikkbransjen. Selskapet har produksjonsanlegg i Norge og USA.",
+    "country": "Norge",
+    "sector": "Materialer",
+    "confidence": 9
+  },
+  {
+    "label": "RECSI REC SILICON",
+    "name": "REC Silicon",
+    "id": "REC",
+    "description": "REC Silicon er et norsk selskap som produserer silisium og silisiumbaserte produkter for solenergi- og elektronikkbransjen. Selskapet har spesialisert seg på produksjon av silisium til solcelleindustrien og har fabrikker i Norge og USA.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "SAGA PURE ASA",
+    "name": "Saga Pure ASA",
+    "id": "SAGA",
+    "description": "Saga Pure ASA er et norsk investeringsselskap som fokuserer på bærekraftige teknologier innenfor energi-, miljø- og materialsektoren. Selskapet investerer i selskaper som utvikler og kommersialiserer innovative løsninger for å redusere klimaavtrykket og fremme en mer bærekraftig fremtid.",
+    "country": "Norge",
+    "sector": "Energi, miljø og materialer",
+    "confidence": 9
+  },
+  {
+    "label": "SAGA SAGA PURE",
+    "name": "Saga Pure",
+    "id": "SAGA",
+    "description": "Saga Pure er et investeringsselskap som fokuserer på bærekraftige teknologier og løsninger. Selskapet investerer i selskaper innenfor sektorer som fornybar energi, elektrisk mobilitet, vannrensing og annen miljøteknologi.",
+    "country": "Norge",
+    "sector": "Investering",
+    "confidence": 8
+  },
+  {
+    "label": "SAGA.NO",
+    "name": "Saga",
+    "id": "SAGA",
+    "description": "Saga er et norsk selskap som tilbyr forsikrings- og finanstjenester. De tilbyr blant annet bilforsikring, reiseforsikring, helseforsikring og pensjonsordninger.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "SBANK SBANKEN",
+    "name": "SpareBank 1 SR-Bank",
+    "id": "SRBANK",
+    "description": "SpareBank 1 SR-Bank er en norsk bank som tilbyr finansielle tjenester til privatpersoner, bedrifter og det offentlige. Banken har hovedkontor i Stavanger og er en del av SpareBank 1-alliansen.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  },
+  {
+    "label": "SCANA SCANA",
+    "name": "Scana ASA",
+    "id": "SCA",
+    "description": "Scana ASA er et norsk industrikonsern som driver innenfor maritim industri og energisektoren. Selskapet tilbyr produkter og tjenester innenfor skipsbygging, offshore og energi, inkludert design, produksjon og vedlikehold av utstyr og systemer.",
+    "country": "Norge",
+    "sector": "Industri",
+    "confidence": 9
+  },
+  {
+    "label": "SCATC SCATEC",
+    "name": "Scatec",
+    "id": "SCATC",
+    "description": "Scatec er et norsk selskap som driver med utvikling, bygging og drift av solenergianlegg over hele verden. Selskapet fokuserer på å levere fornybar energi til markeder med begrenset tilgang til elektrisitet, og har en portefølje av solenergianlegg i land som Sør-Afrika, Egypt, Jordan, Argentina og Ukraina.",
+    "country": "Norge",
+    "sector": "Fornybar energi",
+    "confidence": 9
+  },
+  {
+    "label": "SCHA SCHIBSTED SER. A",
+    "name": "Schibsted",
+    "id": "SCHA",
+    "description": "Schibsted er et norsk mediekonsern som driver innenfor ulike medieplattformer, inkludert aviser, nettaviser, rubrikkannonser og digitale markedsplasser.",
+    "country": "Norge",
+    "sector": "Medier",
+    "confidence": 9
+  },
+  {
+    "label": "SCHB SCHIBSTED SER. B",
+    "name": "Schibsted",
+    "id": "SCHB",
+    "description": "Schibsted er et norsk mediekonsern som driver innenfor ulike medieplattformer, inkludert trykte aviser, digitale nyhetsnettsteder, rubrikkannonser og markedsplasser. Selskapet har en betydelig tilstedeværelse i Norden og er også aktivt i flere andre europeiske land.",
+    "country": "Norge",
+    "sector": "Medier",
+    "confidence": 9
+  },
+  {
+    "label": "SEADRILL",
+    "name": "Seadrill Limited",
+    "id": "SDRL",
+    "description": "Seadrill Limited er et offshore-boringsselskap som tilbyr tjenester til olje- og gassindustrien. Selskapet driver med boring av brønner, brønnvedlikehold og brønnintervensjon. Seadrill har en flåte av moderne og avanserte rigger som brukes til å bore brønner i ulike geografiske områder.",
+    "country": "Bermuda",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "SIEM OFFSHORE INC.",
+    "name": "Siem Offshore Inc.",
+    "id": "SIOFF",
+    "description": "Siem Offshore Inc. er et internasjonalt offshore-rederi som driver med levering av marine tjenester til olje- og gassindustrien. Selskapet tilbyr et bredt spekter av tjenester, inkludert forsyningsskip, ankerhåndteringsskip, subseaskip og konstruksjonsskip. Siem Offshore Inc. har en moderne flåte av skip og opererer globalt.",
+    "country": "Norge",
+    "sector": "Offshore og maritim industri",
+    "confidence": 9
+  },
+  {
+    "label": "SOFF SOLSTAD OFFSHORE",
+    "name": "Solstad Offshore ASA",
+    "id": "SOFF",
+    "description": "Solstad Offshore ASA er et norsk rederi som driver innenfor offshore service og supply. Selskapet tilbyr tjenester til olje- og gassindustrien, inkludert transport av personell og utstyr, ankerhåndtering, subsea-konstruksjon og mer.",
+    "country": "Norge",
+    "sector": "Offshore service og supply",
+    "confidence": 9
+  },
+  {
+    "label": "SOLON SOLON EIENDOM",
+    "name": "Solon Solon Eiendom",
+    "id": "SSE",
+    "description": "Solon Solon Eiendom er et eiendomsselskap som driver med utvikling, kjøp og salg av eiendommer. Selskapet fokuserer på både bolig- og næringsbygg, og har en portefølje av eiendommer i ulike deler av landet.",
+    "country": "Norge",
+    "sector": "Eiendom",
+    "confidence": 8
+  },
+  {
+    "label": "SOLSTAD OFFSHORE ASA",
+    "name": "Solstad Offshore ASA",
+    "id": "SOL",
+    "description": "Solstad Offshore ASA er et norsk rederi som driver innenfor offshore service og supply. Selskapet tilbyr tjenester til olje- og gassindustrien, inkludert transport av personell og utstyr, ankerhåndtering, subsea-konstruksjon og mer.",
+    "country": "Norge",
+    "sector": "Offshore service og supply",
+    "confidence": 9
+  },
+  {
+    "label": "STB",
+    "name": "Statoil ASA",
+    "id": "STO",
+    "description": "Statoil ASA er et norsk multinasjonalt olje- og gasselskap. Selskapet er engasjert i leting, produksjon, raffinering og markedsføring av olje og gass. Statoil er en av verdens største olje- og gasselskaper og har virksomhet i over 30 land.",
+    "country": "Norge",
+    "sector": "Energi",
+    "confidence": 9
+  },
+  {
+    "label": "STB STOREBRAND",
+    "name": "Storebrand ASA",
+    "id": "STB",
+    "description": "Storebrand ASA er et norsk finanskonsern som tilbyr pensjon, forsikring og sparing. Selskapet ble grunnlagt i 1767 og har hovedkontor i Oslo, Norge.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "SUBC SUBSEA 7",
+    "name": "Subsea 7",
+    "id": "SUBC",
+    "description": "Subsea 7 er et internasjonalt undervannsentreprenørselskap som tilbyr ingeniørtjenester og prosjektledelse til olje- og gassindustrien. Selskapet spesialiserer seg på undervannsinstallasjoner, rørledninger og subseautstyr.",
+    "country": "Norge",
+    "sector": "Olje og gass",
+    "confidence": 9
+  },
+  {
+    "label": "TOM_NO0005668905 TOMRA SYSTEMS",
+    "name": "Tomra Systems",
+    "id": "TOM",
+    "description": "Tomra Systems er et norsk selskap som utvikler og produserer avanserte løsninger for innsamling og gjenvinning av resirkulerbart avfall. Selskapet er spesialisert innenfor områder som avfallsbehandling, resirkuleringsteknologi og materialgjenvinning.",
+    "country": "Norge",
+    "sector": "Miljøteknologi",
+    "confidence": 9
+  },
+  {
+    "label": "TRE TREASURE",
+    "name": "Treasure AS",
+    "id": "TRE",
+    "description": "Treasure AS er et selskap som driver med investeringer og forvaltning av verdipapirer. Selskapet fokuserer på å identifisere og investere i undervurderte selskaper med potensial for vekst. Treasure AS har et bredt spekter av investeringer, inkludert aksjer, obligasjoner og eiendom.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "TRMED THOR MEDICAL",
+    "name": "Thor Medical",
+    "id": "TRMED",
+    "description": "Thor Medical er et medisinsk teknologiselskap som utvikler innovative løsninger innenfor medisinsk utstyr og diagnostikk. Selskapet fokuserer på å forbedre pasientbehandling og diagnostisering av ulike medisinske tilstander. Deres produkter inkluderer avanserte medisinske enheter og diagnostiske verktøy som brukes av helsepersonell over hele verden.",
+    "country": "Norge",
+    "sector": "Medisinsk teknologi",
+    "confidence": 8
+  },
+  {
+    "label": "VISTIN PHARMA ASA",
+    "name": "Vistin Pharma ASA",
+    "id": "VISTIN",
+    "description": "Vistin Pharma ASA er et norsk farmasøytisk selskap som fokuserer på produksjon og salg av metformin, et legemiddel som brukes til behandling av diabetes. Selskapet har en moderne produksjonsanlegg i Norge og leverer metformin til både det norske og internasjonale markedet.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri",
+    "confidence": 9
+  },
+  {
+    "label": "VISTN",
+    "name": "Vistin Pharma ASA",
+    "id": "VISTN",
+    "description": "Vistin Pharma ASA er et norsk farmasøytisk selskap som fokuserer på produksjon og salg av metformin, et legemiddel som brukes til behandling av diabetes. Selskapet har også en produksjonsenhet for farmasøytiske råvarer.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri",
+    "confidence": 9
+  },
+  {
+    "label": "VISTN VISTIN PHARMA",
+    "name": "Vistin Pharma",
+    "id": "VISTN",
+    "description": "Vistin Pharma er et farmasøytisk selskap som fokuserer på produksjon og salg av aktive farmasøytiske ingredienser (API-er) til legemiddelindustrien. Selskapet har spesialisert seg på produksjon av metformin, som brukes til behandling av diabetes. Vistin Pharma har et sterkt fokus på kvalitet og leverer API-er til internasjonale markeder.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri",
+    "confidence": 9
+  },
+  {
+    "label": "WALLENIUS WILHELMSEN ASA",
+    "name": "Wallenius Wilhelmsen ASA",
+    "id": "WWASA",
+    "description": "Wallenius Wilhelmsen ASA er et norsk-svensk rederi og logistikkselskap som tilbyr sjøtransport og logistikkløsninger for bilindustrien og andre rullende laster. Selskapet driver med biltransport, logistikk og havnetjenester over hele verden.",
+    "country": "Norge",
+    "sector": "Transport og logistikk",
+    "confidence": 9
+  },
+  {
+    "label": "WALLENIUS WILHELMSEN LOGISTICS ASA",
+    "name": "Wallenius Wilhelmsen Logistics ASA",
+    "id": "WWL",
+    "description": "Wallenius Wilhelmsen Logistics ASA er et norsk selskap som driver med global logistikk og shipping. Selskapet tilbyr tjenester innenfor biltransport, sjøtransport, terminaldrift og logistikkløsninger. De har et omfattende nettverk av havner og terminaler over hele verden.",
+    "country": "Norge",
+    "sector": "Logistikk og shipping",
+    "confidence": 9
+  },
+  {
+    "label": "WALWIL",
+    "name": "Walwil",
+    "id": "WW",
+    "description": "Walwil er et internasjonalt teknologiselskap som spesialiserer seg på utvikling av programvareløsninger for bedrifter. Selskapet tilbyr et bredt spekter av produkter og tjenester, inkludert skybaserte løsninger, dataanalyse og kunstig intelligens. Walwil har et sterkt fokus på innovasjon og leverer skreddersydde løsninger for å møte kundenes behov.",
+    "country": "Norge",
+    "sector": "Teknologi",
+    "confidence": 8
+  },
+  {
+    "label": "WAWI",
+    "name": "WAWI AS",
+    "id": "WAWI",
+    "description": "WAWI AS er et norsk selskap som driver innenfor matvareindustrien. Selskapet produserer og distribuerer et bredt utvalg av matvarer, inkludert snacks, sjokolade og konfekt. WAWI er kjent for sin høye kvalitet og innovative produkter.",
+    "country": "Norge",
+    "sector": "Matvareindustri",
+    "confidence": 8
+  },
+  {
+    "label": "WAWI WALLENIUS WILHELMS",
+    "name": "Wallenius Wilhelmsen",
+    "id": "WAWI",
+    "description": "Wallenius Wilhelmsen er et norsk-svensk rederi og logistikkselskap som spesialiserer seg på biltransport og logistikkløsninger for bilindustrien. Selskapet tilbyr også sjøtransporttjenester for andre typer last, som tungt utstyr og prosjektlaster. Wallenius Wilhelmsen har en global tilstedeværelse og opererer i mer enn 20 land over hele verden.",
+    "country": "Norge/Sverige",
+    "sector": "Transport og logistikk",
+    "confidence": 9
+  },
+  {
+    "label": "WESTERN BULK CHARTERING AS",
+    "name": "Western Bulk Chartering AS",
+    "id": "WBC",
+    "description": "Western Bulk Chartering AS er et skipsmeglerfirma som spesialiserer seg på tørrbulkfrakt. De tilbyr tjenester som frakt av kull, jernmalm, korn, sement og andre tørrbulkvarer over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping",
+    "confidence": 9
+  },
+  {
+    "label": "WWI WILH. WILHELMSEN A",
+    "name": "Wilh. Wilhelmsen Holding ASA",
+    "id": "WWI",
+    "description": "Wilh. Wilhelmsen Holding ASA er et norsk selskap som driver innenfor shipping og logistikk. Selskapet tilbyr tjenester innenfor biltransport, roro-segmentet, teknisk løsninger og supply chain management.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk",
+    "confidence": 9
+  },
+  {
+    "label": "WWIB WILH. WILHELMSEN B",
+    "name": "Wilh. Wilhelmsen B",
+    "id": "WWIB",
+    "description": "Wilh. Wilhelmsen B er et norsk selskap som driver innenfor shipping og logistikk. Selskapet tilbyr tjenester innenfor biltransport, roro-transport, prosjekt- og tungløft, samt maritim tjenesteyting. Wilh. Wilhelmsen B er en del av Wilh. Wilhelmsen-konsernet som har hovedkontor i Oslo, Norge.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk",
+    "confidence": 9
+  },
+  {
+    "label": "WWIB.NO",
+    "name": "WWIB",
+    "id": "WWIB",
+    "description": "WWIB er et selskap som driver med aksjehandel og investeringer.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "XACT DERIVAT BEAR OMSET. FOND",
+    "name": "Xact Derivat Bear Omsettelig Fond",
+    "id": "XDBOF",
+    "description": "Xact Derivat Bear Omsettelig Fond er et fond som investerer i derivater og har som mål å gi avkastning som er motsatt av utviklingen til det underliggende markedet. Fondet er designet for å gi investorer mulighet til å tjene penger når markedet faller.",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 8
+  },
+  {
+    "label": "YAR",
+    "name": "Yara International ASA",
+    "id": "YAR",
+    "description": "Yara International ASA er et norsk gjødselselskap som produserer og distribuerer mineralgjødsel og nitrogenprodukter til landbruket over hele verden. Selskapet er en av verdens største produsenter av mineralgjødsel og har virksomhet i over 60 land.",
+    "country": "Norge",
+    "sector": "Landbruk og gjødselproduksjon",
+    "confidence": 9
+  },
+  {
+    "label": "aksjehandelslogg-beskrivelsen",
+    "name": "firmanavn",
+    "id": "unikt identifiserende navn",
+    "description": "beskrivelse av firmaet",
+    "country": "landet firmaet hører til",
+    "sector": "den økonomiske sektoren firmaet driver innenfor",
+    "confidence": "hvor sikker du er på svaret rangert mellom 1 og 10"
+  }
+]

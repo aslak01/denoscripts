@@ -23,3 +23,20 @@ export async function readInputFile(inputFile: string) {
   }
   return [];
 }
+
+export function msToTime(ms: number) {
+  const hours = Math.floor(ms / 3600000);
+  ms %= 3600000;
+  const minutes = Math.floor(ms / 60000);
+  ms %= 60000;
+  const seconds = Math.floor(ms / 1000);
+  ms %= 1000;
+
+  const timeArray = [];
+  if (hours) timeArray.push(`${hours}hr${hours > 1 ? "s" : ""}`);
+  if (minutes) timeArray.push(`${minutes}min${minutes > 1 ? "s" : ""}`);
+  if (seconds) timeArray.push(`${seconds}s`);
+  if (ms) timeArray.push(`${ms}ms`);
+
+  return timeArray.join(" ");
+}
