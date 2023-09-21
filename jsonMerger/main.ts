@@ -41,8 +41,8 @@ async function main() {
   const input = JSON.parse(await Deno.readTextFile(m));
   const source = JSON.parse(await Deno.readTextFile(s));
 
-  const keyA = k;
-  const keyB = c ? c : k;
+  const keyA = String(k);
+  const keyB = c ? String(c) : keyA;
 
   const output = mergeArraysByMatchingKeys(input, source, keyA, keyB);
 

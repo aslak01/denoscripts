@@ -1,0 +1,14 @@
+[
+  {
+    "label": "GJF.OL Gjensidige forsikring",
+    "name": "Gjensidige forsikring",
+    "id": "GJF",
+    "modifier": "",
+    "modifier_factor": "",
+    "description": "Gjensidige forsikring er et norsk forsikringsselskap som tilbyr skadeforsikring, livsforsikring og pensjonssparing. Selskapet ble grunnlagt i 1816 og har hovedkontor i Oslo. Gjensidige forsikring er en av de største forsikringsaktørene i Norge og tilbyr forsikringsprodukter til både privatpersoner og bedrifter.",
+    "trade_description": "",
+    "country": "Norge",
+    "sector": "Finansielle tjenester",
+    "confidence": 9
+  }
+]

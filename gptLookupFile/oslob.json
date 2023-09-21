@@ -1,0 +1,26 @@
+[
+  {
+    "label": "OBX Oslo Børs Index",
+    "name": "OBX",
+    "id": "OBX",
+    "modifier": "",
+    "modifier_factor": "",
+    "description": "OBX er en børsindeks som består av de 25 mest omsatte aksjene på Oslo Børs. Indeksen gir en bred representasjon av det norske aksjemarkedet og brukes som et referansepunkt for å måle utviklingen til norske aksjer.",
+    "trade_description": "",
+    "country": "Norge",
+    "sector": "Finans",
+    "confidence": 9
+  },
+  {
+    "label": "OMX Stocholm 30 index",
+    "name": "OMX Stockholm 30 index",
+    "id": "OMXS30",
+    "modifier": "",
+    "modifier_factor": "",
+    "description": "OMX Stockholm 30 index er en indeks som består av de 30 mest omsatte aksjene på Stockholmsbörsen. Indeksen gir en representativ oversikt over den svenske aksjemarkedet og er en viktig referanse for investorer og analytikere.",
+    "trade_description": "",
+    "country": "Sverige",
+    "sector": "Diverse",
+    "confidence": 9
+  }
+]

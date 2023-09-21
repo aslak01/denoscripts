@@ -1,0 +1,674 @@
+[
+  {
+    "id": "ABG",
+    "name": "ABG Sundal Collier Holding ASA",
+    "description": "ABG Sundal Collier Holding ASA er et norsk investeringsbank- og verdipapirforetak. Selskapet tilbyr tjenester innenfor corporate finance, aksjehandel, analyse og kapitalforvaltning.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester"
+  },
+  {
+    "id": "ABL",
+    "name": "ABL",
+    "description": "ABL Group er et norsk selskap som driver innenfor eiendomsutvikling og investeringer. Selskapet fokuserer på utvikling av bolig- og næringsbygg, samt investeringer i eiendomsprosjekter.",
+    "country": "Norge",
+    "sector": "Eiendomsutvikling og investeringer"
+  },
+  {
+    "id": "ADE",
+    "name": "Adevinta",
+    "description": "Adevinta er et internasjonalt teknologiselskap som driver med digitale markedsplasser for kjøp og salg av varer og tjenester. Selskapet tilbyr plattformer for rubrikkannonser, eiendomsmegling, bilannonser og jobbannonser.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "AFK",
+    "name": "Arendals Fossekompani",
+    "description": "Arendals Fossekompani er et norsk industri- og investeringsselskap som driver innenfor energi, industri og eiendom. Selskapet har virksomhet i Norge og internasjonalt.",
+    "country": "Norge",
+    "sector": "Industri og investering"
+  },
+  {
+    "id": "AKER",
+    "name": "Aker ASA",
+    "description": "Aker ASA er et norsk industri- og investeringsselskap som opererer innenfor flere sektorer, inkludert olje og gass, skipsbygging, eiendom og finans. Selskapet er kjent for sin betydelige eierandel i Aker BP, et av Norges største olje- og gasselskaper.",
+    "country": "Norge",
+    "sector": "Industri og investering"
+  },
+  {
+    "id": "AKERBP",
+    "name": "Aker BP",
+    "description": "Aker BP er et norsk olje- og gasselskap som driver med leting, utvikling og produksjon av olje og gass på norsk kontinentalsokkel. Selskapet ble etablert i 2016 gjennom en fusjon mellom Det norske oljeselskap og BP Norge.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "AKRBP",
+    "name": "Aker BP",
+    "description": "Aker BP er et norsk olje- og gasselskap som driver med leting, utvikling og produksjon av olje og gass på norsk kontinentalsokkel. Selskapet ble etablert i 2016 gjennom en fusjon mellom Det norske oljeselskap og BP Norge.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "AKSO",
+    "name": "Aker Solutions",
+    "description": "Aker Solutions er et norsk oljeserviceselskap som tilbyr ingeniørtjenester, teknologi, produktløsninger og feltutvikling for olje- og gassindustrien.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "AQUA",
+    "name": "Aqua Bio Technology ASA",
+    "description": "Aqua Bio Technology ASA er et norsk selskap som driver med forskning, utvikling og produksjon av ingredienser til kosmetikk- og hudpleieprodukter. Selskapet fokuserer på å utvikle innovative og bærekraftige løsninger basert på marine ingredienser.",
+    "country": "Norge",
+    "sector": "Helsepleie"
+  },
+  {
+    "id": "ARCUS",
+    "name": "ARCUS",
+    "description": "Arcus ASA er et norsk selskap som er spesialisert innen produksjon, import og distribusjon av vin, brennevin og alkoholfrie drikkevarer. Selskapet har en portefølje av kjente merkevarer og er en ledende aktør i det norske og nordiske markedet.",
+    "country": "Norge",
+    "sector": "Drikkevarer"
+  },
+  {
+    "id": "ARR",
+    "name": "Arribatec Solutions",
+    "description": "Arribatec Solutions er et norsk teknologiselskap som tilbyr digitale løsninger og konsulenttjenester innenfor IT og forretningsprosesser. Selskapet fokuserer på å hjelpe kunder med digital transformasjon og optimalisering av forretningsprosesser.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "AVM",
+    "name": "Avocet Mining",
+    "description": "Avocet Mining er et gruveselskap som driver med gullproduksjon. Selskapet har gruver i Vest-Afrika, spesielt i Burkina Faso og Guinea. Avocet Mining fokuserer på å utvikle og drive bærekraftige gruveprosjekter i regionen.",
+    "country": "Storbritannia",
+    "sector": "Gruvedrift"
+  },
+  {
+    "id": "BEL",
+    "name": "Belships ASA",
+    "description": "Belships ASA er et norsk rederi som driver med tørrlastfrakt. Selskapet eier og opererer en flåte av tørrlastskip som transporterer bulklaster som kull, jernmalm, korn og andre tørre bulklaster over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "BIONOR",
+    "name": "Bionor Pharma",
+    "description": "Bionor Pharma ASA er et norsk bioteknologiselskap som fokuserer på utvikling av immunterapier for behandling av HIV-infeksjon. Selskapet har utviklet en vaksinekandidat kalt Vacc-4x, som har som mål å stimulere immunsystemet til å bekjempe HIV-infeksjonen.",
+    "country": "Norge",
+    "sector": "Bioteknologi"
+  },
+  {
+    "id": "BULKIN",
+    "name": "Bulk Invest ASA",
+    "description": "Bulk Invest ASA er et selskap notert på Oslo Børs. Selskapet driver innenfor shipping- og logistikksektoren, og spesialiserer seg på bulktransport av varer som råolje, kull, metaller og landbruksprodukter. De tilbyr tjenester som frakt, lagring og håndtering av bulklast.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk"
+  },
+  {
+    "id": "BWLPG",
+    "name": "BWLPG",
+    "description": "BWLPG er et finansielt produkt knyttet til BW LPG Limited, et selskap som er engasjert i transport og lagring av flytende petroleumsgass (LPG). Selskapet eier og opererer en flåte av LPG-tankere som brukes til å transportere LPG over hele verden.",
+    "country": "Bermuda",
+    "sector": "Energi"
+  },
+  {
+    "id": "BYGGMA",
+    "name": "BYGGMA",
+    "description": "BYGGMA ASA er et norsk selskap som er spesialisert innen produksjon og salg av byggevarer. Selskapet tilbyr et bredt spekter av produkter, inkludert dører, vinduer, tak, fasader og gulv. BYGGMA ASA har en betydelig tilstedeværelse i Norge og eksporterer også sine produkter til andre europeiske land.",
+    "country": "Norge",
+    "sector": "Byggevarer"
+  },
+  {
+    "id": "DAX",
+    "name": "DAX",
+    "description": "DAX er en børsindeks som representerer de 30 største og mest omsatte selskapene på Frankfurt-børsen i Tyskland. Indeksen er en viktig referanse for den tyske økonomien og gir investorer mulighet til å følge utviklingen til de største selskapene i landet.",
+    "country": "Tyskland",
+    "sector": "Diverse"
+  },
+  {
+    "id": "DNB",
+    "name": "DNB",
+    "description": "DNB er et norsk finanskonsern som tilbyr banktjenester, forsikring, pensjonssparing og eiendomsmegling. DNB er Norges største bank og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "DNO",
+    "name": "DNO",
+    "description": "DNO er et olje- og gasselskap med hovedkontor i Oslo, Norge. Selskapet er engasjert i leting, utvikling og produksjon av olje og gass i Midtøsten og Nord-Afrika.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "ELK",
+    "name": "Elkem",
+    "description": "Elkem er et selskap som driver med produksjon og salg av metaller og polymerer. De tilbyr et bredt spekter av produkter, inkludert silisium, ferrosilisium, spesiallegeringer, karbon og mikrosilika. Selskapet har virksomhet over hele verden og betjener ulike industrier som bil, bygg og anlegg, energi og elektronikk.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "ELO",
+    "name": "Elopak",
+    "description": "Elopak er et norsk selskap som produserer og leverer emballasjeløsninger til mat- og drikkeindustrien. De er spesialisert på kartongbaserte emballasjeprodukter, inkludert drikkekartonger og melkekartonger. Selskapet har en global tilstedeværelse og betjener kunder over hele verden.",
+    "country": "Norge",
+    "sector": "Emballasje"
+  },
+  {
+    "id": "ELOP",
+    "name": "Elopak",
+    "description": "Elopak ASA er et norsk selskap som produserer og leverer emballasjeløsninger til mat- og drikkeindustrien. Selskapet er spesialisert på kartongbaserte emballasjeprodukter, inkludert drikkekartonger og melkekartonger.",
+    "country": "Norge",
+    "sector": "Emballasje"
+  },
+  {
+    "id": "EQNR",
+    "name": "Equinor ASA",
+    "description": "Equinor ASA er et norsk multinasjonalt energiselskap som er engasjert i olje- og gassproduksjon, raffinering og markedsføring av petroleumsprodukter. Selskapet er en av verdens største produsenter av olje og gass, og har virksomhet i mer enn 30 land.",
+    "country": "Norge",
+    "sector": "Energi"
+  },
+  {
+    "id": "FRO",
+    "name": "Frontline Ltd",
+    "description": "Frontline Ltd er et shipping-selskap som er spesialisert innenfor transport av råolje. Selskapet eier og opererer en flåte av tankere som transporterer olje over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "FROT",
+    "name": "Frontline Ltd",
+    "description": "Frontline Ltd er et shipping-selskap som er spesialisert innenfor transport av råolje. Selskapet eier og opererer en flåte av tankere som transporterer olje over hele verden.",
+    "country": "Bermuda",
+    "sector": "Shipping"
+  },
+  {
+    "id": "GJF",
+    "name": "GJF",
+    "description": "Gjensidige Forsikring",
+    "country": "Norge",
+    "sector": "Forsikring"
+  },
+  {
+    "id": "HEX",
+    "name": "Hexagon Composites",
+    "description": "Hexagon Composites er et selskap som er spesialisert innenfor utvikling, produksjon og salg av komposittmaterialer og løsninger. Selskapet tilbyr innovative og bærekraftige løsninger innenfor områder som gasslagring, drivstoffsystemer og trykkbeholdere. Hexagon Composites har en global tilstedeværelse og leverer produkter til en rekke industrier, inkludert transport, energi og industri.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "HPUR",
+    "name": "Hexagon Purus",
+    "description": "Hexagon Purus AS er et norsk selskap som er spesialisert innenfor utvikling og produksjon av høytrykksbeholdere og systemer for lagring og distribusjon av gasser. Selskapet tilbyr løsninger for hydrogen, naturgass, biogass og andre alternative drivstoff.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "HUNT",
+    "name": "Hunter Group ASA",
+    "description": "Hunter Group ASA er et norsk rederi som driver med transport av flytende naturgass (LNG). Selskapet eier og opererer LNG-skip for frakt av LNG over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "IDEX",
+    "name": "IDEX Biometrics",
+    "description": "IDEX Biometrics er et selskap som utvikler og leverer avanserte biometriske løsninger for autentisering og identifikasjon. Deres teknologi brukes i blant annet betalingskort, smarttelefoner og adgangskontrollsystemer.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "IMSK",
+    "name": "IMSK",
+    "description": "IMSK er et selskap notert på Oslo Børs. IMSK står for I.M. Skaugen SE, som er et norsk rederi som driver innenfor shipping og logistikk. Selskapet tilbyr tjenester innenfor transport av flytende gass, kjemikalier og råolje.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk"
+  },
+  {
+    "id": "KA",
+    "name": "Kongsberg Automotive",
+    "description": "Kongsberg Automotive ASA er et norsk selskap som designer, utvikler og produserer komponenter og systemer til bilindustrien. Selskapet tilbyr et bredt spekter av produkter, inkludert setekomponenter, girskiftsystemer, drivstoff- og bremseledninger, samt interiør- og eksteriørkomponenter. Kongsberg Automotive har produksjonsanlegg og salgskontorer over hele verden.",
+    "country": "Norge",
+    "sector": "Bilindustri"
+  },
+  {
+    "id": "KAHOT",
+    "name": "Kahoot!",
+    "description": "Kahoot! er et norsk selskap som utvikler og tilbyr en plattform for interaktiv læring og engasjerende spillbaserte quizzer. Plattformen brukes av lærere, studenter og bedrifter over hele verden for å skape interaktive læringsopplevelser.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "KCC",
+    "name": "Klaveness Combination Carriers ASA",
+    "description": "Klaveness Combination Carriers ASA er et norsk rederi som driver med transport av tørrbulk og flytende massevarer. Selskapet eier og opererer en flåte av kombinasjonsskip som kan frakte både tørrbulk og flytende massevarer i samme skip.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "KOA",
+    "name": "Kongsberg Automotive",
+    "description": "Kongsberg Automotive er en global leverandør av teknologiske løsninger til bilindustrien. Selskapet utvikler og produserer komponenter og systemer for interiør, drivstoffhåndtering, motorstyring og elektriske systemer til personbiler og kommersielle kjøretøy.",
+    "country": "Norge",
+    "sector": "Bilindustri"
+  },
+  {
+    "id": "KOG",
+    "name": "Kongsberg Gruppen",
+    "description": "Kongsberg Gruppen er et norsk teknologiselskap som leverer systemer og løsninger til forsvars-, maritim-, olje- og gassindustrien. Selskapet er kjent for sin ekspertise innenfor autonomi, sensorer, kommunikasjon, kontrollsystemer og simulering.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "KOMP",
+    "name": "Komplett Bank",
+    "description": "Komplett Bank ASA er et norsk finansselskap som tilbyr forbrukslån og kredittkort til privatpersoner. Selskapet ble etablert i 2014 og har hovedkontor i Sandefjord, Norge.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "KRAFT",
+    "name": "Kraft Bank",
+    "description": "Kraft Bank er et norsk bank- og finansieringsselskap som tilbyr tjenester innenfor bank, lån og finansiering til privatpersoner og bedrifter.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "LSG",
+    "name": "Lerøy Seafood Group",
+    "description": "Lerøy Seafood Group er et norsk sjømatkonsern som driver med oppdrett, produksjon og distribusjon av laks, ørret, reker og andre sjømatprodukter. Selskapet er en av verdens største produsenter av atlantisk laks og har virksomhet i flere land.",
+    "country": "Norge",
+    "sector": "Sjømat"
+  },
+  {
+    "id": "MGN",
+    "name": "Magnora",
+    "description": "Magnora ASA er et norsk selskap som driver innenfor energisektoren. Selskapet fokuserer på å utvikle, investere og forvalte prosjekter innenfor fornybar energi, olje og gass, samt infrastruktur. Magnora har en portefølje av prosjekter innenfor vindkraft, solenergi, hydrogen og elektrifisering.",
+    "country": "Norge",
+    "sector": "Energi"
+  },
+  {
+    "id": "MHG",
+    "name": "MHG",
+    "description": "MHG er et finansselskap som driver med forsikring og finansielle tjenester. Selskapet tilbyr livsforsikring, pensjonsordninger, investeringsprodukter og banktjenester.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "MOBA",
+    "name": "Morrow Bank",
+    "description": "Morrow Bank er et finansselskap som opererer på Oslo Børs. De tilbyr ulike banktjenester som lån, sparing og investeringer.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "MORROW",
+    "name": "Morrow Bank",
+    "description": "Morrow Bank ASA er et norsk finansselskap som tilbyr banktjenester til privat- og bedriftskunder. Selskapet tilbyr blant annet lån, sparing, forsikring og betalingstjenester.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "MOWI",
+    "name": "Mowi",
+    "description": "Mowi er et norsk oppdrettselskap som er en av verdens største produsenter av atlantisk laks. Selskapet har virksomhet i flere land og er kjent for sin bærekraftige produksjon av laks.",
+    "country": "Norge",
+    "sector": "Oppdrett"
+  },
+  {
+    "id": "MPC",
+    "name": "MPC Container Ships AS",
+    "description": "MPC Container Ships AS er et norsk rederi som driver med kjøp, drift og salg av containerskip. Selskapet fokuserer på å investere i og drifte mindre containerskip, og har en flåte bestående av moderne og effektive fartøy. MPC Container Ships AS er notert på Oslo Børs.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "MPCC",
+    "name": "MPC Container Ships ASA",
+    "description": "MPC Container Ships ASA er et norsk rederi som driver med kjøp, drift og salg av containerskip. Selskapet fokuserer på å eie og operere mindre containerskip i størrelsen 1,000 til 3,000 TEU.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "NANOV",
+    "name": "Nordic Nanovector",
+    "description": "Nordic Nanovector er et norsk bioteknologiselskap som fokuserer på utvikling og kommersialisering av innovative behandlinger for målrettet stråleterapi av hematologiske kreftformer.",
+    "country": "Norge",
+    "sector": "Bioteknologi"
+  },
+  {
+    "id": "NAS",
+    "name": "Norwegian Air Shuttle",
+    "description": "Norwegian Air Shuttle er et norsk lavprisflyselskap som tilbyr både innenlands- og utenlandsflyvninger. Selskapet ble grunnlagt i 1993 og har hovedkontor på Fornebu i Bærum. Norwegian er kjent for sitt omfattende rutenettverk og konkurransedyktige priser.",
+    "country": "Norge",
+    "sector": "Transport"
+  },
+  {
+    "id": "NDA",
+    "name": "Nordea Bank",
+    "description": "Nordea Bank er en av Nordens største banker og tilbyr et bredt spekter av finansielle tjenester til privatpersoner, bedrifter og institusjoner. Banken har hovedkontor i Stockholm, Sverige, og har filialer i flere land, inkludert Norge.",
+    "country": "Sverige",
+    "sector": "Finansielle tjenester"
+  },
+  {
+    "id": "NEKKAR",
+    "name": "NEKKAR",
+    "description": "NEKKAR (FD TTS GROUP) ASA er et norsk selskap som driver innenfor olje- og gassindustrien. Selskapet tilbyr løfte- og håndteringsløsninger til offshore- og maritim sektor, inkludert kraner, vinsjer og annet utstyr.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "NEL",
+    "name": "NEL",
+    "description": "NEL er et norsk selskap som er en ledende global leverandør av elektrolysører, hydrogenproduksjon, hydrogenstasjoner og hydrogenløsninger for industrielle applikasjoner og transportsektoren.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "NEXT",
+    "name": "NEXT Biometrics Group ASA",
+    "description": "NEXT Biometrics Group ASA er et norsk selskap som utvikler og produserer avanserte fingeravtrykkssensorer for sikkerhets- og identifikasjonsløsninger. Selskapet fokuserer på å levere høykvalitets biometriske sensorer til ulike applikasjoner som mobiltelefoner, bærbare datamaskiner, nettbrett og adgangskontrollsystemer.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "NHY",
+    "name": "Norsk Hydro ASA",
+    "description": "Norsk Hydro ASA er et norsk multinasjonalt aluminiumselskap. Selskapet er en av verdens største produsenter av primæraluminium og er involvert i hele verdikjeden fra utvinning av bauxitt til produksjon av ferdige aluminiumprodukter.",
+    "country": "Norge",
+    "sector": "Materialer"
+  },
+  {
+    "id": "NKR",
+    "name": "Nekkar ASA",
+    "description": "Nekkar ASA er et norsk selskap som er spesialisert innen design, produksjon og levering av kraner og annet utstyr til offshore- og maritim industri. Selskapet tilbyr også ingeniørtjenester og vedlikeholdstjenester.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "NOFI",
+    "name": "Norwegian Finans Holding ASA",
+    "description": "Norwegian Finans Holding ASA er et finansselskap som tilbyr forbrukslån og kredittkort gjennom merkevaren Bank Norwegian. Selskapet er notert på Oslo Børs.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "NOM",
+    "name": "Nordic Mining",
+    "description": "Nordic Mining er et norsk gruveselskap som driver med utvinning av mineraler og metaller. Selskapet fokuserer spesielt på utvinning av rutil og granat i Engebøfjellet i Sogn og Fjordane. Nordic Mining har også prosjekter innenfor utvinning av nikkel, kobolt og grafitt.",
+    "country": "Norge",
+    "sector": "Gruvedrift"
+  },
+  {
+    "id": "NORCOD",
+    "name": "NORCOD",
+    "description": "NORCOD AS er et norsk selskap som driver med oppdrett av torsk. Selskapet fokuserer på bærekraftig oppdrett og har utviklet en teknologi for å produsere torsk i lukkede anlegg på land.",
+    "country": "Norge",
+    "sector": "Oppdrett"
+  },
+  {
+    "id": "NSKOG",
+    "name": "Norske Skog",
+    "description": "Norske Skog ASA er et norsk papir- og skogselskap som produserer avispapir og magasinpapir. Selskapet har fabrikker i flere land og er en av verdens største produsenter av avispapir.",
+    "country": "Norge",
+    "sector": "Papir og skog"
+  },
+  {
+    "id": "OBX",
+    "name": "OBX",
+    "description": "Oslo Børs Hovedindeks (OBX)",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "ODL",
+    "name": "Odfjell Drilling",
+    "description": "Odfjell Drilling er et internasjonalt boreentreprenørselskap som tilbyr tjenester innenfor offshore drilling. Selskapet driver med boring og brønnvedlikehold for olje- og gassindustrien.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "OMX",
+    "name": "OMX Stockholm 30 index",
+    "description": "OMX Stockholm 30 index er en indeks som består av de 30 mest omsatte aksjene på Stockholmsbörsen. Indeksen gir en representativ oversikt over den svenske aksjemarkedet og er en viktig referanse for investorer og analytikere.",
+    "country": "Sverige",
+    "sector": "Finans"
+  },
+  {
+    "id": "OBX",
+    "name": "OBX",
+    "description": "OBX er en børsindeks som består av de 25 mest omsatte aksjene på Oslo Børs. Indeksen gir en bred representasjon av det norske aksjemarkedet og brukes som et referansepunkt for å måle utviklingen til norske aksjer.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "ORK",
+    "name": "Orkla ASA",
+    "description": "Orkla ASA er et norsk selskap som driver innenfor forbrukervarer, merkevarer og finansielle investeringer. Selskapet er engasjert i produksjon, markedsføring og distribusjon av mat, snacks, drikkevarer, personlig pleieprodukter og mer.",
+    "country": "Norge",
+    "sector": "Forbrukervarer"
+  },
+  {
+    "id": "PEN",
+    "name": "Panoro Energy",
+    "description": "Panoro Energy ASA er et uavhengig olje- og gasselskap som fokuserer på leting, utvikling og produksjon av olje og gass i Vest-Afrika. Selskapet har en portefølje av olje- og gassfelt i Gabon og Nigeria.",
+    "country": "Norge",
+    "sector": "Energi"
+  },
+  {
+    "id": "PGS",
+    "name": "PGS",
+    "description": "Petroleum Geo-Services ASA",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "PHO",
+    "name": "Photocure",
+    "description": "Photocure er et norsk farmasøytisk selskap som utvikler og kommersialiserer presisjonsmedisin innenfor blærekreft. Selskapet er spesialisert på fotodynamisk terapi (PDT) og har utviklet Cysview, et produkt som brukes til å oppdage og behandle blærekreft.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri"
+  },
+  {
+    "id": "POL",
+    "name": "Polight",
+    "description": "Polight er et norsk teknologiselskap som utvikler og produserer ultratynne, energieffektive og fleksible lysstyringsløsninger for mobiltelefoner, smartklokker og andre bærbare enheter.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "QFR",
+    "name": "Q-FREE",
+    "description": "Q-FREE er et norsk teknologiselskap som utvikler og leverer løsninger innenfor elektronisk betaling, trafikkovervåking og trafikkinformasjonssystemer. Selskapet tilbyr blant annet elektroniske bomstasjoner, trafikkstyringssystemer og intelligente transportsystemer.",
+    "country": "Norge",
+    "sector": "Teknologi"
+  },
+  {
+    "id": "REC",
+    "name": "REC",
+    "description": "REC er et norsk selskap som er en av verdens største produsenter av solcellesilisium og wafer til solcelleindustrien. Selskapet er også involvert i produksjon av silisium til elektronikk- og solenergimarkeder.",
+    "country": "Norge",
+    "sector": "Energi"
+  },
+  {
+    "id": "SAGA",
+    "name": "Saga Pure",
+    "description": "Saga Pure ASA er et norsk investeringsselskap som fokuserer på bærekraftige løsninger innenfor energi-, miljø- og klimasektoren. Selskapet investerer i selskaper som utvikler og leverer teknologier og tjenester for å redusere klimaavtrykket og fremme en mer bærekraftig fremtid.",
+    "country": "Norge",
+    "sector": "Energi, miljø og klima"
+  },
+  {
+    "id": "SBANK",
+    "name": "Sbanken",
+    "description": "Sbanken er en norsk nettbank som tilbyr banktjenester til privatpersoner. Banken ble etablert i 2000 og har hovedkontor i Bergen. Sbanken tilbyr blant annet innskudd, lån, kredittkort og forsikringstjenester.",
+    "country": "Norge",
+    "sector": "Finansielle tjenester"
+  },
+  {
+    "id": "SCANA",
+    "name": "Scana Industrier ASA",
+    "description": "Scana Industrier ASA er et norsk selskap som er spesialisert innenfor utvikling, produksjon og salg av produkter og tjenester til olje- og gassindustrien, skipsbygging og landbasert industri. Selskapet tilbyr blant annet rørkomponenter, skipsutstyr, kraner og løfteutstyr.",
+    "country": "Norge",
+    "sector": "Industri"
+  },
+  {
+    "id": "SCATC",
+    "name": "Scatec ASA",
+    "description": "Scatec ASA er et norsk selskap som er spesialisert innen utvikling, bygging og drift av solenergianlegg. Selskapet har prosjekter over hele verden og er en ledende aktør innen fornybar energi.",
+    "country": "Norge",
+    "sector": "Fornybar energi"
+  },
+  {
+    "id": "SCHB",
+    "name": "Schibsted",
+    "description": "Schibsted er et norsk mediekonsern som driver med trykte medier, digitale markedsplasser og online rubrikkannonsering. Selskapet er kjent for sine merkevarer som VG, Aftenposten, Finn.no og Blocket.se.",
+    "country": "Norge",
+    "sector": "Media"
+  },
+  {
+    "id": "SDRL",
+    "name": "Seadrill Limited",
+    "description": "Seadrill Limited er et offshore-boringsselskap som tilbyr tjenester til olje- og gassindustrien. Selskapet driver med boring av brønner, brønnvedlikehold og brønnintervensjon.",
+    "country": "Bermuda",
+    "sector": "Energi"
+  },
+  {
+    "id": "SIOFF",
+    "name": "Siem Offshore",
+    "description": "Siem Offshore er et internasjonalt offshore-rederi som driver med levering av støttetjenester til offshore-olje- og gassindustrien. Selskapet tilbyr tjenester som ankerhåndtering, subsea-konstruksjon, kabellegging og forsyningsoperasjoner.",
+    "country": "Norge",
+    "sector": "Offshore Services"
+  },
+  {
+    "id": "SOFF",
+    "name": "Solstad Offshore ASA",
+    "description": "Solstad Offshore ASA er et norsk rederi som driver innenfor offshore service og supply. Selskapet tilbyr tjenester til olje- og gassindustrien, inkludert transport av personell og utstyr, ankerhåndtering, subsea-konstruksjon og ROV-operasjoner.",
+    "country": "Norge",
+    "sector": "Offshore service og supply"
+  },
+  {
+    "id": "SOLON",
+    "name": "Solon Eiendom",
+    "description": "Solon Eiendom er et eiendomsselskap notert på Oslo Børs. Selskapet er spesialisert innen utvikling og forvaltning av næringseiendommer i Norge.",
+    "country": "Norge",
+    "sector": "Eiendom"
+  },
+  {
+    "id": "SOLSTAD",
+    "name": "Solstad Offshore",
+    "description": "Solstad Offshore ASA er et norsk rederi som driver innenfor offshore service- og supplytjenester til olje- og gassindustrien. Selskapet tilbyr et bredt spekter av tjenester, inkludert forsyningsskip, ankerhåndteringsskip, konstruksjonsskip og subseaskip.",
+    "country": "Norge",
+    "sector": "Offshore service og supply"
+  },
+  {
+    "id": "SP500",
+    "name": "S&P 500",
+    "description": "S&P 500 er en børsindeks som består av de 500 største amerikanske selskapene etter markedsverdi. Indeksen representerer bredt marked og er en viktig referanse for amerikansk økonomi.",
+    "country": "USA",
+    "sector": "Diverse"
+  },
+  {
+    "id": "STB",
+    "name": "Storebrand",
+    "description": "Storebrand er et norsk finanskonsern som tilbyr pensjon, forsikring og sparing. Selskapet har en lang historie og er en av de største aktørene innenfor sitt felt i Norge.",
+    "country": "Norge",
+    "sector": "Finans"
+  },
+  {
+    "id": "STL",
+    "name": "Statoil",
+    "description": "Statoil er et norsk olje- og gasselskap som ble grunnlagt i 1972. Selskapet er engasjert i leting, produksjon, raffinering og markedsføring av olje og gass. Statoil er en av verdens største olje- og gassprodusenter og har virksomhet i mer enn 30 land.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "SUBC",
+    "name": "Subsea 7",
+    "description": "Subsea 7 er et internasjonalt undervannsingeniørselskap som tilbyr ingeniørtjenester og utstyr til olje- og gassindustrien. Selskapet er spesialisert på undervannsinstallasjoner, rørledninger og feltutvikling.",
+    "country": "Norge",
+    "sector": "Olje og gass"
+  },
+  {
+    "id": "TEL",
+    "name": "Telenor",
+    "description": "Telenor er et norsk telekommunikasjonsselskap som tilbyr tjenester innen mobiltelefoni, bredbånd og TV. Selskapet opererer i flere land over hele verden.",
+    "country": "Norge",
+    "sector": "Telekommunikasjon"
+  },
+  {
+    "id": "TGS",
+    "name": "TGS-NO",
+    "description": "TGS-NO er et seismisk dataanalysefirma som tilbyr geofysiske tjenester til olje- og gassindustrien. Selskapet samler inn og analyserer store mengder seismiske data for å hjelpe kunder med å identifisere potensielle olje- og gassreserver.",
+    "country": "Norge",
+    "sector": "Energi"
+  },
+  {
+    "id": "THOR",
+    "name": "THOR MEDICAL",
+    "description": "Thor Medical er et selskap som driver innen medisinsk teknologi. De utvikler og produserer avanserte medisinske enheter og utstyr for bruk i diagnostikk og behandling av ulike medisinske tilstander.",
+    "country": "Norge",
+    "sector": "Helsevesen"
+  },
+  {
+    "id": "TOM",
+    "name": "Tomra Systems",
+    "description": "Tomra Systems er et norsk selskap som er spesialisert innen avfallshåndtering og resirkulering. Selskapet utvikler og produserer avanserte løsninger for innsamling og gjenvinning av ulike typer avfall, inkludert plast, papir, glass og metall. Tomra Systems er kjent for sine innovative teknologier og systemer som gjør det mulig å sortere og resirkulere avfall på en effektiv og miljøvennlig måte.",
+    "country": "Norge",
+    "sector": "Miljø og avfallshåndtering"
+  },
+  {
+    "id": "TRE",
+    "name": "Treasure ASA",
+    "description": "Treasure ASA er et norsk selskap som driver med forvaltning av eiendommer og utvikling av eiendomsprosjekter. Selskapet fokuserer på å skape verdier gjennom kjøp, utvikling og salg av eiendommer, samt utleie av næringseiendommer.",
+    "country": "Norge",
+    "sector": "Eiendom"
+  },
+  {
+    "id": "VISTIN",
+    "name": "Vistin Pharma",
+    "description": "Vistin Pharma ASA er et norsk farmasøytisk selskap som fokuserer på produksjon og salg av metformin, et legemiddel som brukes til behandling av diabetes. Selskapet har produksjonsanlegg i Norge og er en ledende global leverandør av metformin.",
+    "country": "Norge",
+    "sector": "Farmasøytisk industri"
+  },
+  {
+    "id": "VISTN",
+    "name": "Visma",
+    "description": "Visma er et norsk selskap som tilbyr programvare og tjenester innenfor økonomi, HR, lønn, innkjøp og logistikk. Selskapet er en av Europas ledende leverandører av forretningskritisk programvare til både private og offentlige virksomheter.",
+    "country": "Norge",
+    "sector": "Programvare og tjenester"
+  },
+  {
+    "id": "WAWI",
+    "name": "Wallenius Wilhelmsen ASA",
+    "description": "Wallenius Wilhelmsen ASA er et norsk-svensk rederi og logistikkselskap som tilbyr sjøtransport, terminaltjenester og logistikkløsninger. Selskapet er spesialisert innenfor biltransport og er en av verdens største aktører innenfor dette området.",
+    "country": "Norge/Sverige",
+    "sector": "Transport og logistikk"
+  },
+  {
+    "id": "WBC",
+    "name": "Western Bulk Chartering AS",
+    "description": "Western Bulk Chartering AS er et skipsmeglerfirma som driver med tørrbulkfrakt. Selskapet tilbyr tjenester innenfor frakt av råvarer som kull, jernmalm, korn og andre tørrbulkprodukter over hele verden.",
+    "country": "Norge",
+    "sector": "Shipping"
+  },
+  {
+    "id": "WWI",
+    "name": "Wilh. Wilhelmsen Holding ASA",
+    "description": "Wilh. Wilhelmsen Holding ASA er et norsk selskap som driver innen shipping og logistikk. Selskapet tilbyr tjenester innenfor biltransport, roro, prosjekt- og tungløft, samt havneterminaler og logistikkløsninger.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk"
+  },
+  {
+    "id": "WWIB",
+    "name": "Wilh. Wilhelmsen B",
+    "description": "Wilh. Wilhelmsen B er et norsk selskap som driver innen shipping og logistikk. Selskapet tilbyr tjenester som biltransport, roro-tjenester, prosjektlast og supply chain management. Wilh. Wilhelmsen B er notert på Oslo Børs under tickeren WWIB.",
+    "country": "Norge",
+    "sector": "Shipping og logistikk"
+  },
+  {
+    "id": "YAR",
+    "name": "Yara International ASA",
+    "description": "Yara International ASA er et norsk gjødselselskap som produserer og distribuerer mineralgjødsel og nitrogenprodukter til landbruket over hele verden. Selskapet er en av verdens største produsenter av ammoniakk og nitrat.",
+    "country": "Norge",
+    "sector": "Gjødsel"
+  }
+]
