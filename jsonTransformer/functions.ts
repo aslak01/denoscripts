@@ -27,6 +27,15 @@ export function msToTime(ms: number) {
   return timeArray.join(" ");
 }
 
+export function unixTimeToNoStr(unix: number): string {
+  const options: Intl.DateTimeFormatOptions = {
+    day: "2-digit",
+    month: "2-digit",
+    year: "numeric",
+  };
+  return new Intl.DateTimeFormat("nb-NO", options).format(new Date(unix));
+}
+
 export function norDtStrToDt(dateString: string, sep = "."): Date {
   const [day, month, year] = dateString.split(sep).map(Number);
   const jsMonth = month - 1;
