@@ -1,0 +1,18 @@
+[
+  {
+    "label": "HÖEGH LNG HOLDINGS LTD.",
+    "name": "Höegh LNG",
+    "id": "HLNG",
+    "description": "Höegh LNG Holdings Ltd. er et norsk selskap som driver med flytende naturgass (LNG) infrastruktur og tjenester. Selskapet er engasjert i utvikling, bygging, drift og leasing av LNG-fartøy og terminaler over hele verden.",
+    "country": "Norge",
+    "sector": "Energi"
+  },
+  {
+    "label": "SELVAAG BOLIG ASA",
+    "name": "Selvaag Bolig",
+    "id": "SBO",
+    "description": "Selvaag Bolig ASA er et norsk eiendomsselskap som utvikler og selger boliger. Selskapet fokuserer på å bygge moderne og funksjonelle boliger tilpasset ulike behov og livsstiler.",
+    "country": "Norge",
+    "sector": "Eiendom"
+  }
+]

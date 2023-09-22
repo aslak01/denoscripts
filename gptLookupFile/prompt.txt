@@ -1,4 +1,4 @@
-Identifiser og beskriv selskapet eller børsindeksen den følgende beskrivelsen av et finansielt produkt beskriver: {search}. Beskrivelsen stammer fra en handelsportefølje fra Oslo børs, så ta utgangspunkt i navngivningen der.
+Identifiser og beskriv selskapet eller børsindeksen den følgende beskrivelsen av et finansielt produkt beskriver: {search}. Beskrivelsen stammer fra en handelsportefølje fra Oslo børs i 2013, så ta utgangspunkt i navngivningen der.
 
 svar med et JSON-objekt som har følgende beskrivelse, nøkler på engelsk, verdier på norsk:
 
