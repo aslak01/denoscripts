@@ -10,8 +10,6 @@ async function main() {
   const start = performance.now();
   const { m, s, k, c, o, h, d } = parseArgs(Deno.args);
 
-  console.log("Welcome to the gpt thing");
-
   if (d) {
     console.dir(parseArgs(Deno.args));
   }

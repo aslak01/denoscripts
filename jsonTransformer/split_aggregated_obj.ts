@@ -10,6 +10,7 @@ type TransformedObject = {
   id: string;
   date: string; // ISO string
   company: string;
+  modifier: string;
 };
 
 export function splitObj(input: InputObject): TransformedObject[] {
@@ -24,6 +25,7 @@ export function splitObj(input: InputObject): TransformedObject[] {
         number: rest[key],
         date: unixTimeToNoStr(Number(date)),
         company: "Startsaldo",
+        modifier: "",
       };
       transformedArray.push(transformedItem);
     }
