@@ -1,5 +1,5 @@
 import { join } from "./imports.ts";
-import { readCsv, writeJson } from "./functions.ts";
+import { parseTxt } from "./functions.ts";
 
 async function main() {
   const inputFileName = Deno.args[0];
@@ -10,7 +10,7 @@ async function main() {
     const data = await Deno.readTextFile(inputFile);
     console.log(data);
 
-    const json = "";
+    const json = parseTxt(data);
     const outputFileName = inputFileName.split(".")[0] + ".json";
 
     await Deno.writeTextFile(outputFileName, JSON.stringify(json));
