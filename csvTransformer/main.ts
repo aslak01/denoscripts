@@ -26,7 +26,9 @@ async function main() {
     const json = await readCsv(inputFile);
     const outputFileName = o || "output.csv";
 
-    const massaged = json.map(transform);
+    const massaged = json.filter((b) => Number(b.visitors) > 100).map(
+      transform,
+    );
 
     try {
       await writeToCSV(massaged, outputFileName);
