@@ -1,43 +1,70 @@
 export function parseTxt(txt: string) {
-  const chapters = txt.split(/\n(CHAPTER [IVXLCDM]+)\n/).filter(Boolean);
+  const chapters = txt.split(/(CHAPTER.+)\n/).filter(Boolean);
 
-  const bookData = chapters.map((chapter) => {
-    // Split the chapter into lines
-    const lines = chapter.split("\n").filter(Boolean);
+  type Chapter = {
+    title: string;
+    pages: string;
+  };
+  type Chapters = Chapter[];
 
-    // Initialize variables
-    const chapterData = [];
-    let currentPage = [];
-    let linesCount = 0;
+  const pairs = chapters.reduce(
+    (result: Chapters, currentValue: string, index) => {
+      if (index % 2 === 0) {
+        const pair = {
+          "title": currentValue,
+          "pages": chapters[index + 1],
+        };
 
-    // Process each line
-    for (const line of lines) {
-      if (linesCount >= 30) {
-        // Page limit reached, start a new page
-        chapterData.push(currentPage);
-        currentPage = [];
-        linesCount = 0;
+        result.push(pair);
       }
+      return result;
+    },
+    [],
+  );
 
-      // Add the line to the current page
-      currentPage.push(line);
+  function trimArrayWithRulesRecursive(
+    array: string[],
+    index = 0,
+    encounteredEmptyLine = true,
+  ): string[] {
+    if (index >= array.length) {
+      return [];
+    }
 
-      if (line.trim() === "") {
-        // Treat blank lines as paragraph breaks, start a new page
-        chapterData.push(currentPage);
-        currentPage = [];
-        linesCount = 0;
+    const str = array[index].trim();
+
+    if (str !== "") {
+      encounteredEmptyLine = false;
+      const rest = trimArrayWithRulesRecursive(array, index + 1, false);
+      return [str, ...rest];
+    } else {
+      if (!encounteredEmptyLine) {
+        encounteredEmptyLine = true;
+        const rest = trimArrayWithRulesRecursive(array, index + 1, true);
+        return [str, ...rest];
       } else {
-        // Count non-blank lines
-        linesCount++;
+        return trimArrayWithRulesRecursive(array, index + 1, true);
       }
     }
+  }
 
-    if (currentPage.length > 0) {
-      chapterData.push(currentPage);
-    }
+  function trimFinalEmptyLines(arr: string[]): string[] {
+    const final = arr.at(-1);
+    if (final === "") arr.pop();
+    return arr;
+  }
 
-    return chapterData;
+  function sepText(chapter: string) {
+    const trimmed = trimArrayWithRulesRecursive(chapter.split("\n"));
+    return trimFinalEmptyLines(trimmed);
+  }
+
+  const bookData = pairs.map((pair) => {
+    return {
+      "title": pair.title,
+      "pages": sepText(pair.pages),
+    };
   });
+
   return bookData;
 }

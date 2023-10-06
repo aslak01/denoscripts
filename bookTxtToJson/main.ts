@@ -8,7 +8,6 @@ async function main() {
     const start = performance.now();
     const inputFile = join("./", inputFileName);
     const data = await Deno.readTextFile(inputFile);
-    console.log(data);
 
     const json = parseTxt(data);
     const outputFileName = inputFileName.split(".")[0] + ".json";
