@@ -21,10 +21,10 @@ async function main() {
   }
 
   try {
-    const inputFileName = Deno.args[0];
+    const inputFileName = i;
     const inputFile = join("./", inputFileName);
     const json = await readCsv(inputFile);
-    const outputFileName = "output.csv";
+    const outputFileName = o || "output.csv";
 
     const massaged = json.map(transform);
 
