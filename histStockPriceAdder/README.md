@@ -1,6 +1,7 @@
 # histStockPriceAdder
 
 ## Broken due to a bug in deno for the moment
+the code runs on node tho if you want to try it out
 
 iterates over an array of stock trades and adds a value from yahoo finance
 
