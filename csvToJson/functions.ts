@@ -1,13 +1,12 @@
-import { parse } from "./imports.ts";
+import { type DataItem } from "csv/mod.ts";
+import { parse } from "csv/parse.ts";
 
 export async function writeJson(
-  data: CsvRow[],
+  data: DataItem[],
   outfile: string,
 ) {
   await Deno.writeTextFile(outfile, JSON.stringify(data));
 }
-
-type CsvRow = Record<string, string | undefined>;
 
 export async function readCsv(
   file: string,

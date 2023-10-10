@@ -1,14 +1,24 @@
-import { join } from "./imports.ts";
+import { join } from "path/join.ts";
+import { parse } from "flags/mod.ts";
 import { readCsv, writeJson } from "./functions.ts";
 
 async function main() {
-  const inputFileName = Deno.args[0];
+  const start = performance.now();
+  const { i, o, h } = parse(Deno.args);
+
+  if (h) {
+    console.log(`
+      -i: input file
+      -o: output file name (defaults to output.json)
+      -d: debug mode for more console output
+    `);
+    return 1;
+  }
 
   try {
-    const start = performance.now();
-    const inputFile = join("./", inputFileName);
+    const inputFile = join("./", i);
     const json = await readCsv(inputFile);
-    const outputFileName = inputFileName.split(".")[0] + ".json";
+    const outputFileName = o ? o + ".json" : i.split(".")[0] + "-out" + ".json";
 
     await writeJson(json, outputFileName);
 
