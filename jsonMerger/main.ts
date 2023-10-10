@@ -1,4 +1,4 @@
-import { parseArgs } from "./imports.ts";
+import { parse } from "flags/mod.ts";
 import {
   isNotString,
   isUndefined,
@@ -8,10 +8,10 @@ import {
 
 async function main() {
   const start = performance.now();
-  const { m, s, k, c, o, h, d } = parseArgs(Deno.args);
+  const { m, s, k, c, o, h, d } = parse(Deno.args);
 
   if (d) {
-    console.dir(parseArgs(Deno.args));
+    console.dir(parse(Deno.args));
   }
 
   if (h) {
