@@ -40,3 +40,18 @@ export function msToTime(ms: number) {
 
   return timeArray.join(" ");
 }
+
+export function combineArrays<A, B>(
+  array1: A[],
+  array2: B[],
+  keySelector: (item: B) => string,
+): (A & { combinedKey: string })[] {
+  return array1.map((element, index) => {
+    if (index < array2.length) {
+      const selectedKey = keySelector(array2[index]);
+      return { ...element, combinedKey: selectedKey };
+    } else {
+      return { ...element, combinedKey: "" }; // Handle the case where array2 is shorter
+    }
+  });
+}

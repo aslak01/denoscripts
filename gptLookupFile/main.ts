@@ -1,9 +1,9 @@
 import { parseArgs } from "./imports.ts";
-import { isUndefined, msToTime } from "./functions.ts";
+import { combineArrays, isUndefined, msToTime } from "./functions.ts";
 
 async function main() {
   const start = performance.now();
-  const { i, k, p, h, d, l } = parseArgs(Deno.args);
+  const { i, k, p, h, d, l, j } = parseArgs(Deno.args);
 
   console.log("Welcome to the gpt thing");
 
@@ -25,6 +25,8 @@ async function main() {
       -d: debug mode (more console logs)
 
       -l: local mode - no requests to gpt sent
+
+      -j: input file is json
     `);
     return 1;
   }
@@ -37,9 +39,21 @@ async function main() {
   const template = await Deno.readTextFile(p);
   if (d) console.log(template);
   const input = await Deno.readTextFile(i);
-  const strings = input.trim().split("\n");
 
-  const templates = strings.map((str) => template.replace("{search}", str));
+  let strings = [];
+
+  if (j) {
+    strings = JSON.parse(input);
+  } else {
+    strings = input.trim().split("\n");
+  }
+
+  const templates = strings.map((str) =>
+    template.replace(
+      "{search}",
+      j ? `${str.browser} ${str.version} - ${str.device}` : str,
+    )
+  );
 
   if (d) {
     console.log(templates[0]);
@@ -83,7 +97,7 @@ async function main() {
           console.error(`Error: ${res.status} - ${res.statusText}`);
         }
       }
-      const outfile = i.split(".")[0] + ".json";
+      const outfile = i.split(".")[0] + "-out.json";
 
       const responses = cleanedData.map((gpt) =>
         JSON.parse(gpt.choices[0].message.content)
@@ -91,7 +105,17 @@ async function main() {
 
       if (d) console.log(responses);
 
-      await Deno.writeTextFile(outfile, JSON.stringify(responses));
+      if (j) {
+        const combined = combineArrays(
+          strings,
+          responses,
+          (item) => item.released,
+        );
+        await Deno.writeTextFile(outfile, JSON.stringify(combined));
+      } else {
+        await Deno.writeTextFile(outfile, JSON.stringify(responses));
+      }
+
       if (d) {
         const debugOutfile = outfile.split(".")[0] + "_debug." +
           outfile.split(".")[1];
