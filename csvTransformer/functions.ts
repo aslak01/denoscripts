@@ -32,3 +32,20 @@ export async function writeToCSV(
   await readable.pipeThrough(new CsvStringifyStream(opts))
     .pipeThrough(new TextEncoderStream()).pipeTo(f.writable);
 }
+
+type ObjectWithStringPropertyKeys = { [key: string]: string };
+
+export function objHasKeys(
+  item: unknown,
+  keysToCheck: string[],
+): item is ObjectWithStringPropertyKeys {
+  if (!item || Array.isArray(item)) {
+    return false; // It's either not an object or an array
+  }
+
+  // Check that all required keys have string values
+  return keysToCheck.every((key) =>
+    typeof item === "object" && key in item &&
+    typeof (item as ObjectWithStringPropertyKeys)[key] === "string"
+  );
+}

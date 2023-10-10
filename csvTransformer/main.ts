@@ -26,8 +26,12 @@ async function main() {
     const json = await readCsv(inputFile);
     const outputFileName = o || "output.csv";
 
-    const massaged = json.filter((b) => Number(b.visitors) > 100).map(
+    const massaged = json.map(
       transform,
+    ).filter((b) => Number(b.visitors) > 1000).filter((b) =>
+      !Object.values(b).some((v) =>
+        typeof v === "string" && (v.includes("Unknown") || v.includes("N/A"))
+      )
     );
 
     try {

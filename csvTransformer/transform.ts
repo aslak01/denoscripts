@@ -1,22 +1,16 @@
-type ObjectWithStringPropertyKeys = { [key: string]: string };
 import { type DataItem } from "csv/mod.ts";
+import { objHasKeys } from "./functions.ts";
 
-function objHasKeys(
-  item: unknown,
-  keysToCheck: string[],
-): item is ObjectWithStringPropertyKeys {
-  if (!item || Array.isArray(item)) {
-    return false; // It's either not an object or an array
-  }
+type Transformed = {
+  browser: string;
+  version: string;
+  device: string;
+  uuid: string;
+  visitors: string;
+  percent: string;
+};
 
-  // Check that all required keys have string values
-  return keysToCheck.every((key) =>
-    typeof item === "object" && key in item &&
-    typeof (item as ObjectWithStringPropertyKeys)[key] === "string"
-  );
-}
-
-export function transform(row: DataItem): DataItem {
+export function transform(row: DataItem): Transformed {
   if (objHasKeys(row, ["visitors", "browser", "device"])) {
     const { visitors, device } = row;
 
@@ -29,8 +23,9 @@ export function transform(row: DataItem): DataItem {
       browser,
       version: version ? version : "Unknown",
       device,
+      uuid: crypto.randomUUID(),
       visitors,
-      percent: percent.toFixed(10),
+      percent: percent.toFixed(5),
     };
   } else {
     throw new Error(`Not a valid object: ${row}`);
