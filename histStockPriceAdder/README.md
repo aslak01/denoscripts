@@ -1,5 +1,7 @@
 # histStockPriceAdder
 
+## Broken due to a bug in deno for the moment
+
 iterates over an array of stock trades and adds a value from yahoo finance
 
 use `-m` to add a modifier to the stock lookup i.e. `OL` to check the symbols on
