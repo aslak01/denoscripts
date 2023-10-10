@@ -1,7 +1,7 @@
 import { join } from "path/join.ts";
+import { parse } from "flags/mod.ts";
 import { readCsv, writeToCSV } from "./functions.ts";
 import { transform } from "./transform.ts";
-import { parse } from "flags/mod.ts";
 
 async function main() {
   const start = performance.now();
