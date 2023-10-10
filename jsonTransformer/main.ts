@@ -1,4 +1,4 @@
-import { parseArgs } from "./imports.ts";
+import { parse as parseArgs } from "flags/mod.ts";
 import { isUndefined, msToTime } from "./functions.ts";
 import { transform } from "./transformer.ts";
 

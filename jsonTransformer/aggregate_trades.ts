@@ -1,4 +1,4 @@
-import { d3 } from "./imports.ts";
+import * as d3 from "d3";
 import { norDtStrToUnixT } from "./functions.ts";
 
 type FinnesData = {

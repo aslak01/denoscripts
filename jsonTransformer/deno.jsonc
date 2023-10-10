@@ -1,5 +1,11 @@
 {
+  "imports": {
+    "d3": "https://esm.sh/d3@7.8.5",
+    "csv/": "https://deno.land/std@0.202.0/csv/",
+    "path/": "https://deno.land/std@0.202.0/path/",
+    "flags/": "https://deno.land/std@0.202.0/flags/"
+  },
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "parse": "deno run --allow-read=. --allow-write=. main.ts"
   }
 }
