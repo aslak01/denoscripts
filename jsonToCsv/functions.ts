@@ -1,9 +1,8 @@
-import { CsvStringifyStream } from "./imports.ts";
-
-type CsvRow = Record<string, string | number | undefined>;
+import { type DataItem } from "csv/mod.ts";
+import { CsvStringifyStream } from "csv/csv_stringify_stream.ts";
 
 export async function writeToCSV(
-  data: CsvRow[],
+  data: DataItem[],
   outfile: string,
   useHeaders = true,
 ) {

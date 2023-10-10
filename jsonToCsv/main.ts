@@ -1,13 +1,17 @@
-import { join } from "./imports.ts";
+import { join } from "path/join.ts";
+import { parse } from "flags/mod.ts";
 import { writeToCSV } from "./functions.ts";
 
 async function main() {
   try {
-    const inputFileName = Deno.args[0];
+    const { i, o } = parse(Deno.args);
+    const inputFileName = i;
     const start = performance.now();
     const inputFile = join("./", inputFileName);
     const json = JSON.parse(await Deno.readTextFile(inputFile));
-    const outputFileName = inputFileName.split(".")[0] + ".csv";
+    const outputFileName = o
+      ? o + ".csv"
+      : inputFileName.split(".")[0] + "-out.csv";
 
     try {
       await writeToCSV(json, outputFileName);
