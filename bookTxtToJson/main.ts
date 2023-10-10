@@ -1,16 +1,20 @@
-import { join } from "./imports.ts";
+import { join } from "path/join.ts";
+import { parse } from "flags/mod.ts";
 import { parseTxt } from "./functions.ts";
 
 async function main() {
-  const inputFileName = Deno.args[0];
-
   try {
     const start = performance.now();
+    const { i, o } = parse(Deno.args);
+    const inputFileName = i;
+
     const inputFile = join("./", inputFileName);
     const data = await Deno.readTextFile(inputFile);
 
     const json = parseTxt(data);
-    const outputFileName = inputFileName.split(".")[0] + ".json";
+    const outputFileName = o
+      ? o + ".json"
+      : inputFileName.split(".")[0] + "-out.json";
 
     await Deno.writeTextFile(outputFileName, JSON.stringify(json));
 
