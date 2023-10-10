@@ -1,14 +1,14 @@
-import { parseArgs } from "./imports.ts";
+import { parse } from "flags/mod.ts";
 import { combineArrays, isUndefined, msToTime } from "./functions.ts";
 
 async function main() {
   const start = performance.now();
-  const { i, k, p, h, d, l, j } = parseArgs(Deno.args);
+  const { i, k, p, h, d, l, j } = parse(Deno.args);
 
   console.log("Welcome to the gpt thing");
 
   if (d) {
-    console.dir(parseArgs(Deno.args));
+    console.dir(parse(Deno.args));
   }
 
   if (h) {

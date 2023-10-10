@@ -6,5 +6,10 @@ prompt file on chatgpt, and outputs the result to json
 call
 
 ```bash
-deno run --allow-read=. --allow-write=. --allow-net main.ts -i short.txt -p prompt.txt -k $(pass show openai/apikey)
+deno task lookup -i short.txt -p prompt.txt -k $(pass show openai/fetchkey)
 ```
+
+### JSON
+
+added partial support for json lookups with the -j flag, need to edit main.ts to
+setup a template for parsing the json into a string for now

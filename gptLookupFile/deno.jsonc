@@ -1,5 +1,8 @@
 {
+  "imports": {
+    "flags/": "https://deno.land/std@0.202.0/flags/"
+  },
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "lookup": "deno run --allow-read=. --allow-write=. --allow-net main.ts"
   }
 }
