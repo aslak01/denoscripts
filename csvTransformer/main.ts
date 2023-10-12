@@ -24,7 +24,7 @@ async function main() {
     const inputFileName = i;
     const inputFile = join("./", inputFileName);
     const json = await readCsv(inputFile);
-    const outputFileName = o || "output.csv";
+    const outputFileName = o || inputFileName + "-out.csv";
 
     const massaged = json.map(
       transform,

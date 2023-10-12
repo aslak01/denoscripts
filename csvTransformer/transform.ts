@@ -11,12 +11,8 @@ type Transformed = {
 };
 
 export function transform(row: DataItem): Transformed {
-  if (objHasKeys(row, ["visitors", "browser", "device"])) {
-    const { visitors, device } = row;
-
-    const total = 113177659;
-    const percent = (Number(visitors) / total) * 100;
-
+  if (objHasKeys(row, ["visitors", "browser", "device", "percent"])) {
+    const { visitors, device, percent } = row;
     const [browser, version] = row.browser.split(" ");
 
     return {
@@ -25,7 +21,7 @@ export function transform(row: DataItem): Transformed {
       device,
       uuid: crypto.randomUUID(),
       visitors,
-      percent: percent.toFixed(5),
+      percent,
     };
   } else {
     throw new Error(`Not a valid object: ${row}`);

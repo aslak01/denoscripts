@@ -44,7 +44,7 @@ async function main() {
 
   const output = mergeArraysByMatchingKeys(input, source, keyA, keyB);
 
-  const outfile = o ? o : "output.json";
+  const outfile = o ? o : m.split(".")[0] + "-merged.json";
 
   await Deno.writeTextFile(outfile, JSON.stringify(output));
 

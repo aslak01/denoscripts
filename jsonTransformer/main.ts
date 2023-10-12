@@ -32,16 +32,16 @@ async function main() {
 
   const output = transform(input);
 
-  const outfile = o ? o : "output.json";
+  const outfile = o ? o : i.split(".")[0] + "-out.json";
 
   await Deno.writeTextFile(outfile, JSON.stringify(output));
 
   const finish = performance.now();
   const delta = finish - start;
   console.log(
-    `Transformed ${input.length} lines of input into ${output.length} lines of data and wrote it to ${outfile} in ${
-      msToTime(delta)
-    }`,
+    `Transformed ${input.length} lines of input into ${
+      Array.isArray(output) ? output.length : Object.keys(output).length
+    } lines of data and wrote it to ${outfile} in ${msToTime(delta)}`,
   );
 }
 

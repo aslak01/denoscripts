@@ -5,5 +5,5 @@ Using builtin Deno functions, it's pretty fast.
 ### Try it out with
 
 ```bash
-deno transform -i finnes.csv
+deno convert -i finnes.csv
 ```
